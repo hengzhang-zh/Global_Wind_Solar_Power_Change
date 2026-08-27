@@ -1,0 +1,900 @@
+﻿Date_Last_Researched,Latitude,Longitude,Country,Capacity_(MW),Installation_Type,Status,Start_year,Retired_year,Subregion,Region,GEM_location_ID,GEM_phase_ID,PV_value
+8/26/2022,16.0909,-22.8125,Cabo Verde,2.55,onshore,operating,2012,,Sub-Saharan Africa,Africa,L916604,G920632,397.73038
+8/26/2022,16.7249,-22.9278,Cabo Verde,7.65,onshore,operating,2012,,Sub-Saharan Africa,Africa,L916605,G920633,382.6049
+8/26/2022,15.0855,-23.6245,Cabo Verde,9.35,onshore,operating,2011,,Sub-Saharan Africa,Africa,L916606,G920634,64.45297
+8/26/2022,16.8289,-24.9766,Cabo Verde,5.95,onshore,operating,2011,,Sub-Saharan Africa,Africa,L916607,G920635,687.0701
+8/28/2023,-20.0668,57.6506,Mauritius,9.4,onshore,operating,2016,,Sub-Saharan Africa,Africa,L900064,G900084,320.89853
+6/23/2022,-45.7506,-67.6634,Argentina,6.3,onshore,operating,2011,,Latin America and the Caribbean,South America,L905332,G920239,1872.8561
+6/23/2022,-17.6501,-65.3659,Bolivia,3,onshore,operating,2011,,Latin America and the Caribbean,South America,L905019,G920248,733.50946
+8/22/2022,-14.4128,-42.6599,Brazil,6,onshore,operating,2019,,Latin America and the Caribbean,South America,L916408,G920250,707.83124
+8/22/2022,-26.5839,-51.6876,Brazil,9,onshore,operating,2006,,Latin America and the Caribbean,South America,L916409,G920251,468.27225
+8/22/2022,-6.5475,-34.968,Brazil,4.8,onshore,operating,2009,,Latin America and the Caribbean,South America,L916411,G920253,366.66666
+8/22/2022,-14.1852,-42.5911,Brazil,8,onshore,operating,2014,,Latin America and the Caribbean,South America,L916413,G920255,824.25287
+8/22/2022,-13.8948,-42.7027,Brazil,8.1,onshore,operating,2022,,Latin America and the Caribbean,South America,L916415,G920257,757.4705
+8/22/2022,-14.4319,-42.6919,Brazil,4,onshore,operating,2019,,Latin America and the Caribbean,South America,L916416,G920258,652.49585
+8/22/2022,-6.5474,-34.9737,Brazil,4.8,onshore,operating,2009,,Latin America and the Caribbean,South America,L916418,G920270,353.5531
+8/22/2022,-33.1762,-52.9207,Brazil,9,onshore,operating,2017,,Latin America and the Caribbean,South America,L916419,G920271,382.31055
+8/22/2022,-33.0985,-52.8619,Brazil,9,onshore,operating,2017,,Latin America and the Caribbean,South America,L916420,G920272,399.24863
+8/22/2022,-33.0871,-52.8957,Brazil,9,onshore,operating,2017,,Latin America and the Caribbean,South America,L916420,G920273,333.5251
+8/22/2022,-8.6674,-41.6308,Brazil,9,onshore,operating,2018,,Latin America and the Caribbean,South America,L916421,G920274,444.5381
+8/22/2022,-14.1082,-42.4746,Brazil,8.5,onshore,operating,2015,,Latin America and the Caribbean,South America,L916425,G920278,342.1394
+8/22/2022,-8.3344,-35.0053,Brazil,2,onshore,operating,2012,,Latin America and the Caribbean,South America,L916427,G920280,80.28118
+8/22/2022,-6.5576,-34.9721,Brazil,4.8,onshore,operating,2009,,Latin America and the Caribbean,South America,L916428,G920281,327.15063
+8/22/2022,-6.556,-34.969,Brazil,4.8,onshore,operating,2009,,Latin America and the Caribbean,South America,L916429,G920282,327.15063
+8/22/2022,-26.5889,-51.7427,Brazil,6,onshore,operating,2011,,Latin America and the Caribbean,South America,L916430,G920283,448.9081
+8/22/2022,-30.8512,-55.7527,Brazil,8,onshore,operating,2013,,Latin America and the Caribbean,South America,L916434,G920288,524.7553
+8/22/2022,-6.5758,-34.9718,Brazil,4.8,onshore,operating,2009,,Latin America and the Caribbean,South America,L916435,G920289,315.70966
+8/22/2022,-6.5701,-34.9674,Brazil,4.8,onshore,operating,2009,,Latin America and the Caribbean,South America,L916435,G920290,358.4285
+8/22/2022,-6.5566,-34.9664,Brazil,4.8,onshore,operating,2009,,Latin America and the Caribbean,South America,L916435,G920291,365.1787
+8/22/2022,-6.5814,-34.9747,Brazil,4.8,onshore,operating,2009,,Latin America and the Caribbean,South America,L916435,G920292,315.6395
+8/22/2022,-10.0658,-40.9809,Brazil,8,onshore,operating,2017,,Latin America and the Caribbean,South America,L916440,G920300,311.2902
+8/22/2022,-4.0431,-38.2969,Brazil,4.5,onshore,operating,,,Latin America and the Caribbean,South America,L916441,G920301,179.03915
+8/22/2022,-26.5781,-51.7004,Brazil,2.5,onshore,operating,1999,,Latin America and the Caribbean,South America,L916442,G920302,426.15796
+8/22/2022,-5.2329,-35.9318,Brazil,8,onshore,operating,2014,,Latin America and the Caribbean,South America,L916443,G920303,418.027
+8/15/2023,-5.35665914,-35.61958708,Brazil,9,onshore,pre-construction,,,Latin America and the Caribbean,South America,L921774,G926865,338.06897
+8/22/2022,-30.4469,-50.3888,Brazil,9.2,onshore,operating,2011,,Latin America and the Caribbean,South America,L916444,G920304,487.5136
+8/22/2022,-30.8807,-55.6765,Brazil,8,onshore,operating,2015,,Latin America and the Caribbean,South America,L916447,G920307,439.93936
+8/22/2022,-8.2682,-35.5964,Brazil,5,onshore,operating,2010,,Latin America and the Caribbean,South America,L916449,G920309,472.2187
+8/22/2022,-14.3257,-42.5719,Brazil,9,onshore,operating,2022,,Latin America and the Caribbean,South America,L916453,G920315,994.1344
+8/22/2022,-4.5891,-37.6377,Brazil,3.2,onshore,operating,2009,,Latin America and the Caribbean,South America,L916456,G920320,410.00705
+8/22/2022,-5.0883,-36.5578,Brazil,1.8,onshore,operating,,,Latin America and the Caribbean,South America,L916458,G920326,476.50415
+8/22/2022,-8.279,-35.5964,Brazil,5,onshore,operating,2010,,Latin America and the Caribbean,South America,L916459,G920327,516.593
+8/22/2022,-6.5823,-34.9785,Brazil,4.8,onshore,operating,2009,,Latin America and the Caribbean,South America,L916460,G920328,315.6395
+8/22/2022,-3.7053,-38.4711,Brazil,2.4,onshore,operating,,,Latin America and the Caribbean,South America,L916462,G920331,371.87357
+8/21/2023,-4.725,-37.3643,Brazil,5.5,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916463,G920338,292.42334
+8/22/2022,-30.458,-50.3906,Brazil,9.2,onshore,operating,2010,,Latin America and the Caribbean,South America,L916465,G920352,553.5601
+8/22/2022,-26.601,-52.7167,Brazil,4.8,onshore,operating,2004,,Latin America and the Caribbean,South America,L916466,G920353,116.04729
+8/22/2022,-7.4953,-35.4955,Brazil,5,onshore,operating,2010,,Latin America and the Caribbean,South America,L916469,G920356,732.82513
+8/22/2022,-13.8629,-42.6727,Brazil,6.4,onshore,operating,2014,,Latin America and the Caribbean,South America,L916470,G920357,975.68207
+8/21/2023,-32.0125,-52.2587,Brazil,8.4,onshore,construction,,,Latin America and the Caribbean,South America,L916471,G920358,345.2418
+8/22/2022,-6.5747,-34.976,Brazil,4.8,onshore,operating,2009,,Latin America and the Caribbean,South America,L916472,G920359,315.70966
+8/22/2022,-26.6256,-51.6753,Brazil,4,onshore,operating,2015,,Latin America and the Caribbean,South America,L916487,G920374,461.13864
+8/22/2022,-8.2947,-35.5956,Brazil,5,onshore,operating,2010,,Latin America and the Caribbean,South America,L916491,G920378,472.2187
+8/21/2023,-5.6442,-36.2471,Brazil,6.2,onshore,operating,2023,,Latin America and the Caribbean,South America,L905099,G920379,510.58887
+8/22/2022,-28.4551,-49.5984,Brazil,3,onshore,operating,2011,,Latin America and the Caribbean,South America,L916492,G920380,453.42145
+8/17/2022,-3.4953,-38.9339,Brazil,5,onshore,operating,1998,,Latin America and the Caribbean,South America,L916504,G920446,397.03107
+8/22/2022,-14.4452,-42.6917,Brazil,8,onshore,operating,2019,,Latin America and the Caribbean,South America,L916505,G920447,652.49585
+8/22/2022,-28.4437,-48.9763,Brazil,4.2,onshore,operating,2021,,Latin America and the Caribbean,South America,L916507,G920449,180.26913
+8/22/2022,-28.4809,-49.0372,Brazil,2.1,onshore,operating,2014,,Latin America and the Caribbean,South America,L916508,G920450,137.69121
+8/22/2022,-10.6503,-41.5874,Brazil,7.5,onshore,operating,2019,,Latin America and the Caribbean,South America,L916510,G920452,982.73474
+8/22/2022,-28.5458,-48.8101,Brazil,3,onshore,operating,,,Latin America and the Caribbean,South America,L916511,G920453,478.98386
+8/15/2023,-26.44125556,-53.51792777,Brazil,0.9,onshore,operating,,,Latin America and the Caribbean,South America,L921809,G926984,394.66446
+8/22/2023,-6.4538,-35.7896,Brazil,5.3,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916514,G920478,486.2222
+8/22/2023,-6.4252,-35.7722,Brazil,5.3,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916514,G920479,839.36176
+8/22/2023,-11.0516,-41.2631,Brazil,5.3,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916514,G920481,579.5722
+8/22/2023,-11.0337,-41.2377,Brazil,5.3,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916514,G920482,504.10086
+8/22/2023,-11.0065,-41.2565,Brazil,5.3,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916514,G920483,554.976
+8/22/2023,-11.0321,-41.2595,Brazil,5.3,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916514,G920484,556.5698
+8/22/2023,-10.5594,-40.4206,Brazil,5.3,onshore,construction,,,Latin America and the Caribbean,South America,L916518,G920502,351.5349
+8/22/2023,-10.5613,-40.4215,Brazil,5.3,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916518,G920503,351.5349
+8/22/2023,-10.5633,-40.4225,Brazil,5.3,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916518,G920504,351.5349
+8/22/2023,-11.0195,-41.294,Brazil,5.3,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916518,G920505,730.8413
+8/22/2023,-10.5646,-40.4114,Brazil,5.3,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916518,G920506,395.64102
+8/22/2023,-11.0484,-41.3056,Brazil,5.3,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916518,G920507,717.5965
+8/22/2023,-6.2301,-36.2498,Brazil,6,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916520,G920511,390.54315
+8/22/2023,-6.2268,-36.2487,Brazil,6,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916520,G920512,390.54315
+8/22/2023,-6.2235,-36.2469,Brazil,6,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916520,G920513,432.16797
+8/22/2023,-6.2205,-36.2441,Brazil,6,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916520,G920514,432.16797
+8/22/2023,-6.2204,-36.2421,Brazil,6,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916520,G920515,398.10892
+8/22/2023,-6.2141,-36.2411,Brazil,6,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916520,G920516,406.3032
+8/22/2023,-6.2109,-36.2401,Brazil,6,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916520,G920517,406.3032
+8/22/2023,-6.2073,-36.2388,Brazil,6,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916520,G920518,406.3032
+8/22/2023,-6.2033,-36.2369,Brazil,6,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916520,G920519,406.3032
+8/22/2023,-6.201,-36.2338,Brazil,6,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916520,G920520,406.7453
+8/22/2023,-6.198,-36.232,Brazil,6,onshore,pre-construction,,,Latin America and the Caribbean,South America,L916520,G920521,406.7453
+8/22/2022,-33.6399,-53.3251,Brazil,7.2,onshore,operating,2015,,Latin America and the Caribbean,South America,L916524,G920542,361.008
+8/22/2022,-33.6072,-53.3248,Brazil,9,onshore,operating,2015,,Latin America and the Caribbean,South America,L916524,G920543,325.46494
+8/22/2022,-6.5573,-35.0147,Brazil,4.5,onshore,operating,2010,,Latin America and the Caribbean,South America,L916527,G920546,215.80194
+8/22/2022,-8.175,-35.3889,Brazil,5,onshore,operating,2010,,Latin America and the Caribbean,South America,L916528,G920547,273.61874
+6/7/2023,-53.14832837,-70.91176235,Chile,3.4,onshore,pre-construction,2025,,Latin America and the Caribbean,South America,L921863,G927156,960.6895
+6/20/2023,10.7477,-75.108,Colombia,9.9,onshore,cancelled,,,Latin America and the Caribbean,South America,L916557,G920577,224.54807
+6/20/2023,10.78003124,-74.71812714,Colombia,1,onshore,pre-construction,2024,,Latin America and the Caribbean,South America,L921877,G927178,65.6238
+6/20/2023,10.78003124,-74.71812714,Colombia,7,onshore,pre-construction,2024,,Latin America and the Caribbean,South America,L921877,G927179,65.6238
+6/20/2023,6.4098,-74.7568,Colombia,8,onshore,construction,,,Latin America and the Caribbean,South America,L905310,G907039,25.730135
+6/20/2023,11.3784,-72.2419,Colombia,9.9,onshore,pre-construction,2024,,Latin America and the Caribbean,South America,L916562,G920582,258.43695
+6/20/2023,11.3784,-72.2419,Colombia,9.9,onshore,pre-construction,2024,,Latin America and the Caribbean,South America,L916563,G920583,258.43695
+6/20/2023,11.3784,-72.2419,Colombia,9.9,onshore,pre-construction,2024,,Latin America and the Caribbean,South America,L916565,G920585,258.43695
+6/24/2022,10.7909,-75.2581,Colombia,9.9,onshore,operating,2020,,Latin America and the Caribbean,South America,L905435,G920587,447.64276
+8/3/2022,10.507,-84.9667,Costa Rica,6.8,onshore,operating,1998,,Latin America and the Caribbean,South America,L916580,G920602,2061.8237
+8/3/2022,10.5234,-85.2532,Costa Rica,9,onshore,operating,2019,,Latin America and the Caribbean,South America,L916581,G920603,402.51495
+8/3/2022,21.1194,-76.1374,Cuba,5.1,onshore,operating,2008,,Latin America and the Caribbean,South America,L905536,G920604,313.71283
+8/3/2022,21.1194,-76.1374,Cuba,4.5,onshore,operating,2010,,Latin America and the Caribbean,South America,L905536,G920605,313.71283
+8/3/2022,21.7216,-82.7634,Cuba,1.6,onshore,operating,2007,,Latin America and the Caribbean,South America,L916582,G920606,190.65736
+6/20/2023,17.88415501,-71.27047172,Dominican Republic,1.8,onshore,operating,,,Latin America and the Caribbean,South America,L905163,G906720,307.58218
+6/20/2023,17.88415501,-71.27047172,Dominican Republic,8.25,onshore,operating,,,Latin America and the Caribbean,South America,L905163,G927191,307.58218
+8/3/2022,19.6264,-69.9035,Dominican Republic,8.2,onshore,operating,2011,,Latin America and the Caribbean,South America,L916589,G920613,197.42636
+9/12/2022,33.036,-103.855,United States,5,onshore,operating,2014,,Northern America,North America,L906344,G908609,530.5467
+9/6/2022,38.288694,26.377833,Türkiye,7.2,onshore,operating,,,Western Asia,Asia,L921439,G926397,454.87064
+10/9/2023,37.0323,27.7087,Türkiye,9,onshore,pre-construction,,,Western Asia,Asia,L921440,G926399,404.438
+9/14/2022,38.8128,26.9073,Türkiye,9.6,onshore,operating,2014,,Western Asia,Asia,L921443,G926402,726.9301
+10/18/2022,38.8128,26.9073,Türkiye,9.6,onshore,operating,2016,,Western Asia,Asia,L921443,G926403,726.9301
+9/14/2022,38.0846,32.0164,Türkiye,3.5,onshore,operating,,,Western Asia,Asia,L921445,G926406,437.61862
+9/6/2022,36.4864,36.1891,Türkiye,6,onshore,operating,,,Western Asia,Asia,L921475,G926445,354.68045
+9/6/2022,38.2392,26.7308,Türkiye,7.5,onshore,operating,,,Western Asia,Asia,L921505,G926483,564.12213
+9/6/2022,38.1551,30.1354,Türkiye,8.25,onshore,operating,,,Western Asia,Asia,L921511,G926494,432.7393
+9/6/2022,39.0416,27.0291,Türkiye,5.5,onshore,operating,,,Western Asia,Asia,L921514,G926499,658.8281
+9/6/2022,39.0416,27.0291,Türkiye,5.5,onshore,operating,,,Western Asia,Asia,L921514,G926500,658.8281
+10/9/2023,38.4538,26.5661,Türkiye,2.25,onshore,pre-construction,,,Western Asia,Asia,L921521,G926510,696.08466
+9/6/2022,40.7216,26.1968,Türkiye,6.6,onshore,operating,,,Western Asia,Asia,L921522,G926512,648.89276
+10/9/2023,41.3959,28.1292,Türkiye,4.2,onshore,pre-construction,,,Western Asia,Asia,L921525,G926515,245.6336
+9/14/2022,41.6595,35.0044,Türkiye,5.1,onshore,operating,,,Western Asia,Asia,L921530,G926520,429.14987
+9/14/2022,41.1338,34.6226,Türkiye,1.2,onshore,operating,,,Western Asia,Asia,L921550,G926545,73.51384
+9/6/2022,40.2024,29.1343,Türkiye,9.6,onshore,operating,,,Western Asia,Asia,L921555,G926551,174.37622
+9/6/2022,39.9731,28.0093,Türkiye,8.25,onshore,operating,,,Western Asia,Asia,L921560,G926557,584.24445
+9/6/2022,40.4958,27.7021,Türkiye,4,onshore,operating,,,Western Asia,Asia,L921580,G926585,515.93134
+9/6/2022,39.9553,28.0529,Türkiye,2.3,onshore,operating,,,Western Asia,Asia,L921598,G926610,735.6136
+9/6/2022,39.9553,28.0529,Türkiye,6.9,onshore,operating,,,Western Asia,Asia,L921598,G926611,735.6136
+9/6/2022,38.2878,26.5884,Türkiye,7.5,onshore,operating,,,Western Asia,Asia,L921612,G926628,475.5583
+9/1/2022,39.3081,27.935,Türkiye,1.8,onshore,operating,,,Western Asia,Asia,L921623,G926642,471.33606
+9/6/2022,38.4758,26.5815,Türkiye,9.6,onshore,operating,,,Western Asia,Asia,L921660,G926683,259.6681
+9/6/2022,36.0534,36.1307,Türkiye,9,onshore,operating,,,Western Asia,Asia,L921686,G926720,600.39655
+9/7/2022,38.8943,27.1737,Türkiye,5.5,onshore,operating,,,Western Asia,Asia,L921689,G926724,948.3659
+9/7/2022,38.8943,27.1737,Türkiye,6,onshore,operating,,,Western Asia,Asia,L921689,G926725,948.3659
+9/6/2022,41.1304,28.6199,Türkiye,1.2,onshore,operating,,,Western Asia,Asia,L921702,G926749,370.42294
+9/6/2022,41.0556,28.4436,Türkiye,5.85,onshore,operating,,,Western Asia,Asia,L921708,G926759,558.00745
+9/6/2022,39.3359,26.9598,Türkiye,7.5,onshore,operating,,,Western Asia,Asia,L921713,G926766,939.6456
+9/9/2022,38.9468,27.188,Türkiye,2.5,onshore,operating,,,Western Asia,Asia,L921739,G926797,741.0076
+9/6/2022,36.1055,36.0461,Türkiye,7.5,onshore,operating,,,Western Asia,Asia,L921743,G926804,463.91745
+11/6/2023,24.4667,120.6504,China,5,onshore,operating,2015,,Eastern Asia,Asia,L901066,G927784,844.95514
+11/6/2023,24.10630649,120.398353,China,9,onshore,operating,2019,,Eastern Asia,Asia,L901073,G927785,810.6741
+11/7/2023,24.67694631,120.8373001,China,8,onshore,operating,2006,,Eastern Asia,Asia,L922284,G927790,755.18866
+11/7/2023,24.71953935,120.8647931,China,7,onshore,operating,2011,,Eastern Asia,Asia,L922284,G927791,799.6756
+11/8/2023,24.12575429,120.4261042,China,7,onshore,operating,2020,,Eastern Asia,Asia,L922293,G927802,776.3634
+3/23/2023,46.4287,1.7271,France,9,onshore,announced,,,Western Europe,Europe,L919538,G924043,413.47256
+3/16/2023,49.1969,6.5831,France,7.5,onshore,operating,2017,,Western Europe,Europe,L919599,G924110,476.02
+2/27/2023,48.5223,-3.2587,France,7.5,onshore,announced,,,Western Europe,Europe,L919606,G924117,586.8572
+1/24/2023,49.6474,2.9167,France,8,onshore,operating,,,Western Europe,Europe,L919633,G924144,346.64917
+2/2/2023,50.0734,3.3932,France,9,onshore,announced,2024,,Western Europe,Europe,L919712,G924227,436.04202
+2/2/2023,45.6296,4.7448,France,9.6,onshore,announced,2026,,Western Europe,Europe,L919757,G924275,548.33484
+2/21/2023,48.546,-3.332,France,9,onshore,announced,,,Western Europe,Europe,L919790,G924309,601.72955
+1/26/2023,47.3563,6.6862,France,9,onshore,construction,,,Western Europe,Europe,L919828,G924348,409.11456
+3/24/2023,47.7118,-2.3338,France,6.9,onshore,pre-construction,,,Western Europe,Europe,L919851,G924371,348.61447
+2/14/2023,46.1967,-0.2243,France,8,onshore,announced,,,Western Europe,Europe,L919872,G924393,375.1494
+3/1/2023,47.6227,4.2344,France,7,onshore,operating,2018,,Western Europe,Europe,L919911,G924432,352.36447
+3/1/2023,47.6227,4.2344,France,7,onshore,operating,2018,,Western Europe,Europe,L919911,G924433,352.36447
+3/28/2023,46.3692,1.3442,France,9.6,onshore,shelved,,,Western Europe,Europe,L919920,G924443,465.98538
+1/19/2023,46.0829,0.2829,France,6.2,onshore,construction,2024,,Western Europe,Europe,L919922,G924445,358.071
+1/19/2023,46.0247,-0.7755,France,6.2,onshore,construction,2024,,Western Europe,Europe,L919922,G924446,347.9587
+1/19/2023,46.0809,0.3756,France,6.2,onshore,construction,2024,,Western Europe,Europe,L919922,G924447,396.66437
+1/19/2023,46.0676,0.2512,France,6.2,onshore,construction,2024,,Western Europe,Europe,L919922,G924448,345.88104
+1/19/2023,46.0258,0.3246,France,6.2,onshore,construction,2024,,Western Europe,Europe,L919922,G924449,366.26413
+1/19/2023,45.6678,5.5155,France,6.2,onshore,construction,2024,,Western Europe,Europe,L919922,G924450,128.68202
+2/17/2023,45.5822,0.0431,France,9,onshore,pre-construction,,,Western Europe,Europe,L919928,G924457,322.72488
+2/13/2023,50.4154,2.5504,France,9.2,onshore,operating,2009,,Western Europe,Europe,L908652,G924483,558.17566
+2/13/2023,50.4154,2.5504,France,9.2,onshore,operating,2009,,Western Europe,Europe,L908652,G924484,558.17566
+2/13/2023,50.4154,2.5504,France,4.6,onshore,operating,2009,,Western Europe,Europe,L908652,G924485,558.17566
+2/28/2023,42.7412,2.5379,France,9,onshore,pre-construction,,,Western Europe,Europe,L919995,G924530,717.6033
+3/21/2023,48.8433,4.5429,France,6,onshore,pre-construction,,,Western Europe,Europe,L920013,G924548,315.87155
+4/3/2023,51.0181,6.7175,Germany,8,onshore,operating,2003,,Western Europe,Europe,L920047,G924595,391.4828
+4/21/2023,53.8476,10.6688,Germany,2,onshore,operating,2019,,Western Europe,Europe,L920064,G924622,392.68948
+4/18/2023,52.9847,7.4139,Germany,8,onshore,operating,2002,,Western Europe,Europe,L912773,G916071,497.2342
+4/5/2023,52.4351,14.4816,Germany,8,onshore,operating,2018,,Western Europe,Europe,L908477,G911178,426.90274
+4/13/2023,52.1913,9.749,Germany,6,onshore,operating,2010,,Western Europe,Europe,L910649,G924873,435.1932
+3/13/2023,40.9432,26.114,Greece,8.4,onshore,pre-construction,,,Southern Europe,Europe,L908322,G911017,485.2735
+3/9/2023,38.3074,22.8342,Greece,6,onshore,pre-construction,,,Southern Europe,Europe,L908227,G910920,995.6698
+3/13/2023,41.1983,-8.0347,Portugal,3.3,onshore,operating,2006,,Southern Europe,Europe,L920607,G925315,664.8157
+3/13/2023,39.1089,-9.1932,Portugal,6.9,onshore,operating,2005,,Southern Europe,Europe,L920608,G925316,327.14096
+3/13/2023,40.1975,-7.8016,Portugal,2,onshore,operating,2011,,Southern Europe,Europe,L911468,G925317,268.83942
+3/13/2023,40.1975,-7.8016,Portugal,2,onshore,operating,2012,,Southern Europe,Europe,L911468,G925318,268.83942
+3/13/2023,38.8421,-9.2677,Portugal,6,onshore,operating,2007,,Southern Europe,Europe,L920609,G925319,455.40332
+3/13/2023,38.9345,-9.1475,Portugal,5,onshore,operating,2008,,Southern Europe,Europe,L920610,G925320,439.65045
+3/13/2023,41.6651,-8.0898,Portugal,1.2,onshore,operating,2002,,Southern Europe,Europe,L920611,G925322,355.2823
+3/13/2023,41.6651,-8.0898,Portugal,1.2,onshore,operating,2003,,Southern Europe,Europe,L920611,G925323,355.2823
+3/13/2023,40.6395,-8.6525,Portugal,4.5,onshore,operating,2003,,Southern Europe,Europe,L920612,G925324,283.35803
+3/20/2023,41.4086,-7.799,Portugal,2.4,onshore,operating,2022,,Southern Europe,Europe,L908717,G925325,563.88336
+3/13/2023,41.298,-7.7371,Portugal,1.6,onshore,operating,2006,,Southern Europe,Europe,L920613,G925326,126.20151
+3/13/2023,39.2958,-7.3536,Portugal,8.2,onshore,operating,2014,,Southern Europe,Europe,L920614,G925327,261.3852
+3/13/2023,41.0696,-7.5769,Portugal,1.5,onshore,operating,2015,,Southern Europe,Europe,L907707,G925328,322.92773
+3/13/2023,41.0696,-7.5769,Portugal,4,onshore,operating,2013,,Southern Europe,Europe,L907707,G925329,322.92773
+3/13/2023,41.0696,-7.5769,Portugal,2.4,onshore,operating,2013,,Southern Europe,Europe,L907707,G925330,322.92773
+3/13/2023,41.0696,-7.5769,Portugal,1.5,onshore,operating,2013,,Southern Europe,Europe,L907707,G925331,322.92773
+3/13/2023,41.0696,-7.5769,Portugal,6,onshore,operating,2013,,Southern Europe,Europe,L907707,G925332,322.92773
+3/13/2023,41.0696,-7.5769,Portugal,5.7,onshore,operating,2013,,Southern Europe,Europe,L907707,G925333,322.92773
+3/13/2023,41.0696,-7.5769,Portugal,4.5,onshore,operating,2013,,Southern Europe,Europe,L907707,G925334,322.92773
+3/13/2023,41.0696,-7.5769,Portugal,2,onshore,operating,2013,,Southern Europe,Europe,L907707,G925335,322.92773
+3/13/2023,41.0696,-7.5769,Portugal,3,onshore,operating,2013,,Southern Europe,Europe,L907707,G925336,322.92773
+3/13/2023,41.0696,-7.5769,Portugal,6.6,onshore,operating,2013,,Southern Europe,Europe,L907707,G925337,322.92773
+3/20/2023,39.8289,-8.4128,Portugal,2,onshore,pre-construction,,,Southern Europe,Europe,L910981,G925338,401.1884
+3/13/2023,40.9654,-8.0294,Portugal,6,onshore,operating,2008,,Southern Europe,Europe,L912015,G925339,501.5733
+3/13/2023,40.9654,-8.0294,Portugal,9.2,onshore,operating,2015,,Southern Europe,Europe,L912015,G925340,501.5733
+3/13/2023,40.9654,-8.0294,Portugal,4.7,onshore,operating,2018,,Southern Europe,Europe,L912015,G925341,501.5733
+3/13/2023,40.9654,-8.0294,Portugal,4.7,onshore,operating,2018,,Southern Europe,Europe,L912015,G925342,501.5733
+3/13/2023,40.9654,-8.0294,Portugal,4.7,onshore,operating,2018,,Southern Europe,Europe,L912015,G925343,501.5733
+3/13/2023,38.7336,-9.1387,Portugal,4,onshore,operating,2004,,Southern Europe,Europe,L920615,G925344,189.31293
+3/13/2023,41.8246,-8.7108,Portugal,4.7,onshore,operating,2016,,Southern Europe,Europe,L913843,G925345,431.70172
+3/20/2023,41.8246,-8.7108,Portugal,2.2,onshore,pre-construction,,,Southern Europe,Europe,L913843,G925346,431.70172
+3/13/2023,38.9697,-9.1666,Portugal,6,onshore,operating,2006,,Southern Europe,Europe,L920616,G925347,492.6924
+3/20/2023,41.427,-8.0581,Portugal,2.8,onshore,operating,2022,,Southern Europe,Europe,L909797,G925348,363.36725
+3/13/2023,41.1628,-8.623,Portugal,6.3,onshore,operating,2009,,Southern Europe,Europe,L920617,G925349,211.11798
+3/13/2023,40.8122,-7.3521,Portugal,3,onshore,operating,2015,,Southern Europe,Europe,L907734,G925351,370.61502
+3/13/2023,40.8122,-7.3521,Portugal,3,onshore,operating,2015,,Southern Europe,Europe,L907734,G925352,370.61502
+3/13/2023,40.8122,-7.3521,Portugal,1.5,onshore,operating,2015,,Southern Europe,Europe,L907734,G925353,370.61502
+3/13/2023,40.6621,-7.924,Portugal,7,onshore,operating,2002,,Southern Europe,Europe,L920618,G925354,239.06425
+3/13/2023,38.86,-9.2265,Portugal,5.2,onshore,operating,2003,,Southern Europe,Europe,L920619,G925355,408.748
+3/13/2023,41.8118,-6.7509,Portugal,2,onshore,operating,2004,,Southern Europe,Europe,L920620,G925356,140.97037
+3/20/2023,41.5249,-7.7965,Portugal,2.35,onshore,pre-construction,,,Southern Europe,Europe,L920622,G925358,121.35583
+3/13/2023,39.8517,-7.9197,Portugal,4,onshore,operating,2018,,Southern Europe,Europe,L908273,G925359,368.51596
+3/13/2023,39.8517,-7.9197,Portugal,6,onshore,operating,2003,,Southern Europe,Europe,L908273,G925360,368.51596
+3/13/2023,39.8517,-7.9197,Portugal,6,onshore,operating,2009,,Southern Europe,Europe,L908273,G925361,368.51596
+3/13/2023,39.8441,-7.9359,Portugal,4,onshore,operating,2020,,Southern Europe,Europe,L908273,G925362,382.0615
+3/20/2023,39.6042,-8.8176,Portugal,6,onshore,pre-construction,,,Southern Europe,Europe,L920623,G925363,270.8068
+3/20/2023,40.9832,-8.0449,Portugal,4,onshore,pre-construction,,,Southern Europe,Europe,L910719,G925364,629.254
+3/13/2023,40.1301,-8.0501,Portugal,2,onshore,operating,2018,,Southern Europe,Europe,L908274,G925365,234.12096
+3/13/2023,40.5561,-8.1948,Portugal,1.2,onshore,operating,2004,,Southern Europe,Europe,L920624,G925366,509.62485
+3/13/2023,40.6198,-8.1508,Portugal,4.8,onshore,operating,2021,,Southern Europe,Europe,L915606,G925368,410.67355
+3/13/2023,41.7567,-8.8083,Portugal,1.8,onshore,operating,2013,,Southern Europe,Europe,L908804,G925369,449.86765
+3/20/2023,41.7579,-8.8176,Portugal,3.6,onshore,pre-construction,,,Southern Europe,Europe,L911764,G925370,449.86765
+3/13/2023,40.6621,-7.924,Portugal,2,onshore,operating,2007,,Southern Europe,Europe,L920625,G925371,239.06425
+3/13/2023,41.8118,-6.7509,Portugal,4,onshore,operating,2004,,Southern Europe,Europe,L920626,G925372,140.97037
+3/13/2023,39.5383,-9.0498,Portugal,2,onshore,operating,2006,,Southern Europe,Europe,L920627,G925373,360.80875
+3/20/2023,40.825,-8.1401,Portugal,8,onshore,pre-construction,,,Southern Europe,Europe,L914198,G925374,467.31134
+3/13/2023,41.298,-7.7371,Portugal,2,onshore,operating,2009,,Southern Europe,Europe,L920628,G925375,126.20151
+3/13/2023,38.5351,-8.9058,Portugal,6.9,onshore,operating,2004,,Southern Europe,Europe,L920629,G925376,263.74866
+3/13/2023,40.2299,-8.4245,Portugal,4,onshore,operating,2007,,Southern Europe,Europe,L920630,G925377,223.87439
+3/13/2023,40.6621,-7.924,Portugal,8,onshore,operating,2009,,Southern Europe,Europe,L920631,G925378,239.06425
+3/20/2023,40.108,-8.177,Portugal,8.4,onshore,operating,,,Southern Europe,Europe,L914319,G925379,272.81287
+3/13/2023,37.0281,-7.9228,Portugal,6,onshore,operating,2015,,Southern Europe,Europe,L920632,G925380,232.8595
+3/13/2023,40.5412,-7.25,Portugal,2.6,onshore,operating,2004,,Southern Europe,Europe,L920633,G925381,282.73926
+3/13/2023,39.8257,-7.4957,Portugal,8,onshore,operating,2012,,Southern Europe,Europe,L920634,G925383,244.40366
+3/13/2023,41.7178,-8.8284,Portugal,6,onshore,operating,2005,,Southern Europe,Europe,L920635,G925384,249.07494
+3/13/2023,38.8801,-9.1401,Portugal,6,onshore,operating,2007,,Southern Europe,Europe,L908883,G925385,465.42477
+3/13/2023,41.8118,-6.7509,Portugal,8,onshore,operating,2007,,Southern Europe,Europe,L920636,G925386,140.97037
+3/20/2023,41.0863,-7.8701,Portugal,1.8,onshore,pre-construction,,,Southern Europe,Europe,L907846,G925387,550.6234
+3/13/2023,41.0863,-7.8701,Portugal,2,onshore,operating,2021,,Southern Europe,Europe,L908276,G925388,550.6234
+3/13/2023,41.1644,-8.6332,Portugal,1.5,onshore,operating,2014,,Southern Europe,Europe,L907865,G925390,233.61064
+3/13/2023,40.5412,-7.25,Portugal,8,onshore,operating,2008,,Southern Europe,Europe,L920637,G925391,282.73926
+3/13/2023,37.2254,-8.7583,Portugal,3.8,onshore,operating,2016,,Southern Europe,Europe,L911071,G925392,379.8582
+3/13/2023,38.9098,-9.276,Portugal,3.3,onshore,operating,1999,,Southern Europe,Europe,L920638,G925393,395.67236
+3/13/2023,38.9098,-9.276,Portugal,3.9,onshore,operating,2002,,Southern Europe,Europe,L920638,G925394,395.67236
+3/20/2023,41.0331,-7.9346,Portugal,5.5,onshore,pre-construction,,,Southern Europe,Europe,L913704,G925395,597.0658
+3/20/2023,41.6026,-7.9896,Portugal,4.2,onshore,pre-construction,,,Southern Europe,Europe,L911974,G925396,407.4577
+3/13/2023,39.2962,-9.2605,Portugal,2.7,onshore,operating,2013,,Southern Europe,Europe,L911149,G925397,358.3366
+3/13/2023,39.2962,-9.2605,Portugal,2.7,onshore,operating,2013,,Southern Europe,Europe,L911149,G925398,358.3366
+3/13/2023,41.1628,-8.623,Portugal,4.2,onshore,operating,2008,,Southern Europe,Europe,L920639,G925399,211.11798
+3/14/2023,40.2299,-8.4245,Portugal,9.9,onshore,operating,2001,,Southern Europe,Europe,L920640,G925400,223.87439
+3/14/2023,41.298,-7.7371,Portugal,2.6,onshore,operating,2006,,Southern Europe,Europe,L920641,G925401,126.20151
+3/14/2023,39.0707,-9.2235,Portugal,6,onshore,operating,2009,,Southern Europe,Europe,L920642,G925402,285.70273
+3/14/2023,39.0565,-9.1992,Portugal,4,onshore,operating,2009,,Southern Europe,Europe,L920643,G925403,281.54538
+3/14/2023,40.6621,-7.924,Portugal,9,onshore,operating,2005,,Southern Europe,Europe,L920644,G925404,239.06425
+3/14/2023,41.298,-7.7371,Portugal,9,onshore,operating,2003,,Southern Europe,Europe,L910305,G925405,126.20151
+3/14/2023,39.0353,-9.1401,Portugal,6,onshore,operating,2009,,Southern Europe,Europe,L920645,G925406,322.31204
+3/14/2023,38.8956,-9.2376,Portugal,2.6,onshore,operating,2004,,Southern Europe,Europe,L920647,G925408,409.81976
+3/14/2023,38.5351,-8.9058,Portugal,1.8,onshore,operating,1992,,Southern Europe,Europe,L920648,G925409,263.74866
+3/14/2023,38.7336,-9.1387,Portugal,1.8,onshore,operating,2004,,Southern Europe,Europe,L920649,G925410,189.31293
+3/14/2023,39.0223,-9.1393,Portugal,2,onshore,operating,2005,,Southern Europe,Europe,L920650,G925411,361.06345
+3/14/2023,40.5412,-7.25,Portugal,8,onshore,operating,2008,,Southern Europe,Europe,L911638,G925412,282.73926
+3/14/2023,40.4461,-7.3587,Portugal,4.6,onshore,operating,2014,,Southern Europe,Europe,L911638,G925413,341.13885
+3/14/2023,40.5412,-7.25,Portugal,9.1,onshore,operating,2004,,Southern Europe,Europe,L920651,G925414,282.73926
+3/14/2023,40.5412,-7.25,Portugal,1.8,onshore,operating,2016,,Southern Europe,Europe,L920651,G925415,282.73926
+3/14/2023,39.8257,-7.4957,Portugal,8,onshore,operating,2009,,Southern Europe,Europe,L920652,G925416,244.40366
+3/20/2023,40.9472,-7.8051,Portugal,4,onshore,pre-construction,,,Southern Europe,Europe,L914084,G925417,328.8944
+3/20/2023,40.9451,-7.7542,Portugal,4,onshore,pre-construction,,,Southern Europe,Europe,L914087,G925418,379.23853
+3/14/2023,41.475,-7.6272,Portugal,2,onshore,operating,2009,,Southern Europe,Europe,L911643,G925419,459.50613
+3/14/2023,41.298,-7.7371,Portugal,7.5,onshore,operating,2004,,Southern Europe,Europe,L920654,G925421,126.20151
+3/14/2023,38.7336,-9.1387,Portugal,8,onshore,operating,2005,,Southern Europe,Europe,L920655,G925423,189.31293
+3/14/2023,38.7336,-9.1387,Portugal,4,onshore,operating,2009,,Southern Europe,Europe,L920655,G925424,189.31293
+3/14/2023,41.2501,-7.8901,Portugal,6,onshore,operating,2005,,Southern Europe,Europe,L908094,G925426,357.4312
+3/14/2023,41.2501,-7.8901,Portugal,2.1,onshore,operating,2016,,Southern Europe,Europe,L908094,G925427,357.4312
+3/14/2023,40.2064,-7.2489,Portugal,8,onshore,operating,2016,,Southern Europe,Europe,L909161,G925428,360.85385
+3/14/2023,39.7053,-7.7378,Portugal,2,onshore,operating,2007,,Southern Europe,Europe,L920657,G925429,132.79678
+3/14/2023,37.0281,-7.9228,Portugal,6,onshore,operating,2007,,Southern Europe,Europe,L920658,G925430,232.8595
+3/14/2023,37.0281,-7.9228,Portugal,2.1,onshore,operating,2017,,Southern Europe,Europe,L920659,G925431,232.8595
+3/14/2023,38.8883,-9.2005,Portugal,2,onshore,operating,2006,,Southern Europe,Europe,L920660,G925432,474.90457
+3/14/2023,39.3034,-9.2146,Portugal,9.1,onshore,operating,2006,,Southern Europe,Europe,L920662,G925434,363.44443
+3/14/2023,41.1628,-8.623,Portugal,1.1,onshore,operating,1998,,Southern Europe,Europe,L920663,G925435,211.11798
+3/14/2023,39.4988,-8.8972,Portugal,7.2,onshore,operating,2014,,Southern Europe,Europe,L920664,G925436,532.1101
+3/14/2023,39.3401,-8.7309,Portugal,2,onshore,operating,2006,,Southern Europe,Europe,L920665,G925437,234.02325
+3/14/2023,41.7178,-8.8284,Portugal,2,onshore,operating,2012,,Southern Europe,Europe,L920666,G925438,249.07494
+3/14/2023,40.2299,-8.4245,Portugal,2,onshore,operating,2005,,Southern Europe,Europe,L920667,G925439,223.87439
+3/14/2023,40.4192,-7.2627,Portugal,5.1,onshore,operating,2013,,Southern Europe,Europe,L909983,G925440,339.95386
+3/14/2023,40.4192,-7.2627,Portugal,8,onshore,operating,2013,,Southern Europe,Europe,L909983,G925441,339.95386
+3/14/2023,40.4192,-7.2627,Portugal,4.2,onshore,operating,2013,,Southern Europe,Europe,L909983,G925442,339.95386
+3/14/2023,40.4192,-7.2627,Portugal,2,onshore,operating,2013,,Southern Europe,Europe,L909983,G925443,339.95386
+3/14/2023,40.4192,-7.2627,Portugal,5.1,onshore,operating,2013,,Southern Europe,Europe,L909983,G925444,339.95386
+3/14/2023,40.4192,-7.2627,Portugal,2,onshore,operating,2013,,Southern Europe,Europe,L909983,G925445,339.95386
+3/14/2023,40.4192,-7.2627,Portugal,2.4,onshore,operating,2013,,Southern Europe,Europe,L909983,G925446,339.95386
+3/14/2023,37.0281,-7.9228,Portugal,5.5,onshore,operating,2014,,Southern Europe,Europe,L920668,G925447,232.8595
+3/14/2023,40.6395,-8.6525,Portugal,3.7,onshore,operating,2019,,Southern Europe,Europe,L920669,G925448,283.35803
+3/14/2023,38.7336,-9.1387,Portugal,6,onshore,operating,2004,,Southern Europe,Europe,L920670,G925449,189.31293
+3/14/2023,40.6621,-7.924,Portugal,4,onshore,operating,2005,,Southern Europe,Europe,L920671,G925450,239.06425
+3/14/2023,40.6621,-7.924,Portugal,2,onshore,operating,2007,,Southern Europe,Europe,L920672,G925451,239.06425
+3/14/2023,40.6621,-7.924,Portugal,2,onshore,operating,2013,,Southern Europe,Europe,L920672,G925452,239.06425
+3/14/2023,38.9738,-9.2274,Portugal,6.9,onshore,operating,2006,,Southern Europe,Europe,L920673,G925453,336.09332
+3/20/2023,41.9125,-8.7113,Portugal,2.15,onshore,pre-construction,,,Southern Europe,Europe,L908144,G925454,461.1029
+3/14/2023,40.9949,-8.0911,Portugal,2,onshore,operating,2015,,Southern Europe,Europe,L908145,G925455,408.00717
+3/14/2023,40.6621,-7.924,Portugal,1.2,onshore,operating,2003,,Southern Europe,Europe,L920674,G925456,239.06425
+3/14/2023,40.6621,-7.924,Portugal,4,onshore,operating,2003,,Southern Europe,Europe,L920674,G925457,239.06425
+3/14/2023,39.0207,-9.2074,Portugal,6,onshore,operating,2006,,Southern Europe,Europe,L920675,G925458,327.24664
+3/14/2023,39.0207,-9.2074,Portugal,2,onshore,operating,2008,,Southern Europe,Europe,L920675,G925459,327.24664
+3/14/2023,38.7336,-9.1387,Portugal,2,onshore,operating,2009,,Southern Europe,Europe,L920676,G925460,189.31293
+3/14/2023,40.5412,-7.25,Portugal,2,onshore,operating,2009,,Southern Europe,Europe,L920677,G925461,282.73926
+3/14/2023,39.3217,-9.2659,Portugal,4,onshore,operating,2021,,Southern Europe,Europe,L912010,G925462,375.98026
+3/14/2023,39.6222,-8.0282,Portugal,4.5,onshore,operating,2002,,Southern Europe,Europe,L910144,G925463,320.44855
+3/14/2023,40.2299,-8.4245,Portugal,6,onshore,operating,2010,,Southern Europe,Europe,L920678,G925464,223.87439
+3/14/2023,41.1628,-8.623,Portugal,2,onshore,operating,2007,,Southern Europe,Europe,L920679,G925465,211.11798
+3/14/2023,41.1628,-8.623,Portugal,8,onshore,operating,2005,,Southern Europe,Europe,L920680,G925466,211.11798
+3/14/2023,39.3401,-8.7309,Portugal,4.2,onshore,operating,2021,,Southern Europe,Europe,L920681,G925467,234.02325
+3/20/2023,39.0601,-9.2601,Portugal,2,onshore,operating,2022,,Southern Europe,Europe,L908166,G925468,254.53609
+3/20/2023,39.9106,-8.6267,Portugal,4,onshore,pre-construction,,,Southern Europe,Europe,L920682,G925469,217.69586
+3/14/2023,39.2926,-9.0279,Portugal,2,onshore,operating,2016,,Southern Europe,Europe,L908168,G925470,305.74734
+3/14/2023,41.6781,-7.9999,Portugal,2,onshore,operating,2011,,Southern Europe,Europe,L908169,G925471,278.54462
+3/14/2023,41.6781,-7.9999,Portugal,6,onshore,operating,2014,,Southern Europe,Europe,L908169,G925472,278.54462
+3/14/2023,41.7415,-7.6535,Portugal,4.6,onshore,operating,2015,,Southern Europe,Europe,L912986,G925473,445.80267
+3/14/2023,37.3759,-8.0889,Portugal,2.35,onshore,operating,2014,,Southern Europe,Europe,L909257,G925474,329.56882
+3/14/2023,37.3759,-8.0889,Portugal,2,onshore,operating,2011,,Southern Europe,Europe,L909257,G925475,329.56882
+3/20/2023,40.5828,-7.398,Portugal,4,onshore,pre-construction,,,Southern Europe,Europe,L913545,G925476,453.4729
+3/14/2023,40.6621,-7.924,Portugal,4,onshore,operating,2005,,Southern Europe,Europe,L920683,G925477,239.06425
+3/14/2023,40.6621,-7.924,Portugal,8,onshore,operating,2009,,Southern Europe,Europe,L920684,G925478,239.06425
+3/14/2023,41.7783,-7.8747,Portugal,8,onshore,operating,2012,,Southern Europe,Europe,L908200,G925479,366.64972
+3/14/2023,40.9903,-7.8503,Portugal,4,onshore,operating,2021,,Southern Europe,Europe,L912531,G925480,471.34702
+3/14/2023,40.3655,-8.6583,Portugal,9,onshore,operating,2012,,Southern Europe,Europe,L913574,G925481,186.73279
+3/14/2023,39.7513,-8.8034,Portugal,6,onshore,operating,2005,,Southern Europe,Europe,L920686,G925483,156.71677
+3/14/2023,40.0537,-8.2523,Portugal,4.6,onshore,operating,2013,,Southern Europe,Europe,L912543,G925484,329.44995
+3/14/2023,40.0466,-8.2752,Portugal,4,onshore,operating,2014,,Southern Europe,Europe,L912853,G925485,428.5557
+3/14/2023,41.5516,-8.4191,Portugal,2,onshore,operating,2005,,Southern Europe,Europe,L920687,G925486,156.2535
+3/14/2023,41.5516,-8.4191,Portugal,1.6,onshore,operating,2006,,Southern Europe,Europe,L920688,G925487,156.2535
+2/7/2023,43.371,-8.3959,Spain,7.84,onshore,announced,,,Southern Europe,Europe,L912621,G915753,300.5715
+3/31/2023,58.1496,14.2211,Sweden,4,onshore,operating,2014,,Northern Europe,Europe,L911235,G914195,362.97104
+1/11/2023,44.8086,35.0856,Ukraine,6.3,onshore,operating,2002,,Eastern Europe,Europe,L912042,G915097,637.67926
+1/11/2023,47.1419,37.9161,Ukraine,3.6,onshore,mothballed,,,Eastern Europe,Europe,L912139,G925666,408.28366
+4/10/2023,51.517,-2.6891,United Kingdom,2.5,onshore,operating,2019,,Northern Europe,Europe,L920835,G925671,526.8826
+4/10/2023,58.4385,-3.2015,United Kingdom,6.2,onshore,operating,2009,,Northern Europe,Europe,L920836,G925672,732.801
+4/10/2023,53.3876,-1.3779,United Kingdom,2.6,onshore,operating,2009,,Northern Europe,Europe,L920838,G925675,335.9346
+4/10/2023,55.1021,-1.625,United Kingdom,6,onshore,pre-construction,,,Northern Europe,Europe,L920839,G925676,715.13904
+4/10/2023,55.4342,-4.5931,United Kingdom,1,onshore,pre-construction,,,Northern Europe,Europe,L920841,G925678,806.47327
+4/10/2023,58.9523,-3.1356,United Kingdom,2.7,onshore,pre-construction,,,Northern Europe,Europe,L920843,G925680,902.494
+4/10/2023,50.6861,-2.1777,United Kingdom,9.2,onshore,pre-construction,,,Northern Europe,Europe,L920844,G925681,516.0854
+4/10/2023,54.152,-0.519,United Kingdom,1.3,onshore,pre-construction,,,Northern Europe,Europe,L920845,G925682,609.2591
+4/10/2023,54.5222,-7.0946,United Kingdom,7.1,onshore,operating,2017,,Northern Europe,Europe,L920846,G925683,953.9428
+4/10/2023,54.5128,-7.1113,United Kingdom,7.1,onshore,operating,2017,,Northern Europe,Europe,L920846,G925684,953.9428
+4/10/2023,51.5723,-2.4999,United Kingdom,6.9,onshore,operating,2017,,Northern Europe,Europe,L920847,G925685,483.27325
+4/10/2023,51.5559,-2.9738,United Kingdom,2.3,onshore,operating,2016,,Northern Europe,Europe,L920848,G925686,477.2781
+4/10/2023,56.6477,-2.5582,United Kingdom,1,onshore,construction,,,Northern Europe,Europe,L920849,G925687,657.2657
+4/10/2023,57.6505,-2.2064,United Kingdom,1.4,onshore,pre-construction,,,Northern Europe,Europe,L920850,G925688,953.4134
+4/10/2023,55.72,-4.2537,United Kingdom,7.2,onshore,operating,2014,,Northern Europe,Europe,L920851,G925689,766.61957
+4/10/2023,55.7102,-4.2521,United Kingdom,4.3,onshore,operating,2014,,Northern Europe,Europe,L920852,G925690,680.33875
+4/10/2023,55.6439,-4.8061,United Kingdom,6,onshore,operating,2008,,Northern Europe,Europe,L920853,G925691,839.2929
+4/10/2023,56.5709,-3.0481,United Kingdom,6.4,onshore,operating,2013,,Northern Europe,Europe,L920854,G925692,707.7465
+4/10/2023,58.1766,-6.4383,United Kingdom,3.9,onshore,operating,2006,,Northern Europe,Europe,L920855,G925693,733.9559
+4/10/2023,54.1839,-3.1814,United Kingdom,4.6,onshore,operating,1999,,Northern Europe,Europe,L920858,G925696,744.9071
+4/10/2023,55.5447,-5.6602,United Kingdom,6.9,onshore,operating,2018,,Northern Europe,Europe,L920860,G925698,890.0265
+4/10/2023,57.5814,-2.6468,United Kingdom,2.4,onshore,operating,2014,,Northern Europe,Europe,L920861,G925699,755.7327
+4/10/2023,51.5383,-2.6739,United Kingdom,5,onshore,operating,2013,,Northern Europe,Europe,L920864,G925702,626.114
+4/10/2023,51.5166,-2.7027,United Kingdom,6,onshore,operating,2007,,Northern Europe,Europe,L920865,G925703,576.4645
+4/10/2023,51.5029,-2.6988,United Kingdom,9,onshore,operating,2014,,Northern Europe,Europe,L920865,G925704,509.984
+4/10/2023,51.5115,-2.6735,United Kingdom,8.2,onshore,operating,2014,,Northern Europe,Europe,L920866,G925705,477.75214
+4/10/2023,56.9293,-2.4065,United Kingdom,2.3,onshore,pre-construction,,,Northern Europe,Europe,L920867,G925706,588.0937
+4/10/2023,57.587,-2.4167,United Kingdom,4.6,onshore,operating,2014,,Northern Europe,Europe,L920868,G925707,666.7556
+4/10/2023,54.8795,-6.2332,United Kingdom,4.7,onshore,operating,2013,,Northern Europe,Europe,L920870,G925709,589.00183
+4/10/2023,54.8725,-4.5165,United Kingdom,9.1,onshore,operating,2012,,Northern Europe,Europe,L920871,G925710,607.20917
+4/10/2023,53.3213,0.2384,United Kingdom,9.6,onshore,operating,2004,,Northern Europe,Europe,L920873,G925712,603.0599
+4/10/2023,53.3213,0.2384,United Kingdom,4.6,onshore,operating,2006,,Northern Europe,Europe,L920874,G925713,603.0599
+4/10/2023,54.8657,-4.7879,United Kingdom,8.1,onshore,operating,2013,,Northern Europe,Europe,L920877,G925716,726.2102
+4/10/2023,54.8767,-4.7893,United Kingdom,8.4,onshore,pre-construction,,,Northern Europe,Europe,L920878,G925717,667.44586
+4/10/2023,52.682,-1.5238,United Kingdom,2,onshore,pre-construction,,,Northern Europe,Europe,L920879,G925718,537.231
+4/10/2023,58.9217,-2.7157,United Kingdom,1.8,onshore,operating,2013,,Northern Europe,Europe,L920880,G925719,1102.4945
+4/10/2023,51.507,-1.536,United Kingdom,1.3,onshore,pre-construction,,,Northern Europe,Europe,L920881,G925720,570.8339
+4/10/2023,50.4703,-4.9556,United Kingdom,9.8,onshore,operating,2001,,Northern Europe,Europe,L920882,G925721,722.2231
+4/10/2023,51.5256,0.0799,United Kingdom,2.2,onshore,operating,2014,,Northern Europe,Europe,L920883,G925722,251.97847
+4/10/2023,56.3824,-5.2977,United Kingdom,7.8,onshore,operating,1999,,Northern Europe,Europe,L920886,G925725,925.96265
+4/10/2023,57.7882,-4.2482,United Kingdom,4.6,onshore,operating,2009,,Northern Europe,Europe,L913181,G925726,815.3859
+4/10/2023,58.205,-6.4802,United Kingdom,5,onshore,pre-construction,,,Northern Europe,Europe,L920887,G925727,715.93286
+4/10/2023,54.6857,-6.8876,United Kingdom,2.3,onshore,pre-construction,,,Northern Europe,Europe,L920889,G925729,853.151
+4/10/2023,54.6864,-6.8908,United Kingdom,2.3,onshore,pre-construction,,,Northern Europe,Europe,L920890,G925730,907.96643
+4/10/2023,54.6857,-6.8876,United Kingdom,2.3,onshore,pre-construction,,,Northern Europe,Europe,L920890,G925731,853.151
+4/10/2023,57.4298,-6.4583,United Kingdom,4.6,onshore,operating,2011,,Northern Europe,Europe,L912192,G925732,729.52075
+4/10/2023,57.4699,-6.4322,United Kingdom,8.4,onshore,pre-construction,,,Northern Europe,Europe,L920891,G925733,496.87103
+4/10/2023,57.7055,-4.4267,United Kingdom,9,onshore,operating,1997,,Northern Europe,Europe,L920892,G925734,1156.5359
+4/10/2023,54.704,-7.4405,United Kingdom,5,onshore,operating,1995,,Northern Europe,Europe,L920893,G925735,687.208
+4/10/2023,54.705,-7.4265,United Kingdom,9,onshore,operating,2008,,Northern Europe,Europe,L920893,G925736,668.6725
+4/10/2023,55.2152,-1.5572,United Kingdom,2.3,onshore,operating,2013,,Northern Europe,Europe,L920894,G925737,701.66455
+4/10/2023,58.4488,-3.2498,United Kingdom,3.9,onshore,operating,2008,,Northern Europe,Europe,L920895,G925739,748.35706
+4/10/2023,54.6414,-7.6054,United Kingdom,9,onshore,operating,2007,,Northern Europe,Europe,L920896,G925740,960.2024
+8/2/2021,56.3061,-3.3296,United Kingdom,9,onshore,operating,,,Northern Europe,Europe,L907739,G910407,803.5994
+4/10/2023,53.5433,-1.7062,United Kingdom,7.5,onshore,operating,2013,,Northern Europe,Europe,L920897,G925741,1364.0859
+4/10/2023,51.9971,-4.4413,United Kingdom,3.9,onshore,operating,2002,,Northern Europe,Europe,L920898,G925742,951.7916
+4/10/2023,55.7416,-4.0901,United Kingdom,9,onshore,operating,2013,,Northern Europe,Europe,L920899,G925743,933.95764
+4/10/2023,55.7416,-4.0901,United Kingdom,7.5,onshore,operating,2014,,Northern Europe,Europe,L920899,G925744,933.95764
+4/10/2023,55.6451,-2.5167,United Kingdom,5,onshore,pre-construction,,,Northern Europe,Europe,L920900,G925745,691.9724
+4/10/2023,52.7105,1.6537,United Kingdom,2.3,onshore,retired,2000,,Northern Europe,Europe,L920902,G925747,588.889
+4/10/2023,52.707,1.6644,United Kingdom,1,onshore,operating,2015,,Northern Europe,Europe,L920902,G925748,612.2579
+4/10/2023,51.8631,1.0042,United Kingdom,1.5,onshore,operating,2010,,Northern Europe,Europe,L920903,G925749,481.11407
+4/10/2023,55.1254,-1.4952,United Kingdom,2.7,onshore,operating,1992,,Northern Europe,Europe,L920904,G925750,649.3772
+4/10/2023,55.1205,-1.4906,United Kingdom,3.4,onshore,operating,2012,,Northern Europe,Europe,L920904,G925751,689.5198
+4/10/2023,55.1361,-1.4901,United Kingdom,4,offshore mount unknown,retired,2000,,Northern Europe,Europe,L914316,G925752,771.0721
+4/10/2023,52.1742,-1.2793,United Kingdom,1.5,onshore,operating,2014,,Northern Europe,Europe,L920905,G925753,573.3153
+4/10/2023,53.0175,-3.4988,United Kingdom,1.5,onshore,operating,2017,,Northern Europe,Europe,L920906,G925754,897.61816
+4/10/2023,57.5663,-2.3,United Kingdom,2.3,onshore,operating,2014,,Northern Europe,Europe,L920907,G925755,689.50684
+4/10/2023,56.2594,-2.7467,United Kingdom,1.5,onshore,operating,2014,,Northern Europe,Europe,L920908,G925756,687.3006
+4/10/2023,56.259,-2.7497,United Kingdom,2.7,onshore,pre-construction,,,Northern Europe,Europe,L920908,G925757,687.3006
+4/10/2023,54.8478,-1.9282,United Kingdom,6,onshore,operating,2013,,Northern Europe,Europe,L920909,G925758,1035.467
+4/10/2023,57.6607,-2.6518,United Kingdom,2.3,onshore,operating,2010,,Northern Europe,Europe,L910753,G925760,827.23
+4/10/2023,54.1297,-0.4861,United Kingdom,1.3,onshore,pre-construction,,,Northern Europe,Europe,L920911,G925761,608.6594
+4/10/2023,57.6268,-2.6988,United Kingdom,2.3,onshore,pre-construction,,,Northern Europe,Europe,L920912,G925762,865.32465
+4/10/2023,52.5951,-3.9576,United Kingdom,3.9,onshore,operating,2007,,Northern Europe,Europe,L920913,G925763,740.7853
+4/10/2023,55.8666,-2.2879,United Kingdom,2.4,onshore,operating,2013,,Northern Europe,Europe,L920915,G925765,1017.3839
+4/10/2023,54.7502,-1.7607,United Kingdom,8,onshore,operating,2009,,Northern Europe,Europe,L920916,G925768,948.7525
+4/10/2023,56.8147,-2.3719,United Kingdom,4.6,onshore,operating,2017,,Northern Europe,Europe,L920917,G925769,705.48267
+4/10/2023,55.8396,-3.776,United Kingdom,8.4,onshore,pre-construction,,,Northern Europe,Europe,L920918,G925770,878.1843
+4/10/2023,55.8396,-3.776,United Kingdom,8.4,onshore,pre-construction,,,Northern Europe,Europe,L920918,G925771,878.1843
+4/10/2023,56.8399,-2.3792,United Kingdom,7.5,onshore,operating,2017,,Northern Europe,Europe,L920919,G925772,748.3706
+4/10/2023,52.3672,-3.5656,United Kingdom,9.9,onshore,operating,1994,,Northern Europe,Europe,L920920,G925773,1016.0924
+4/10/2023,59.0973,-2.6601,United Kingdom,2.7,onshore,operating,2002,,Northern Europe,Europe,L920921,G925774,1217.6283
+4/10/2023,59.1176,-3.1492,United Kingdom,5,onshore,operating,2006,,Northern Europe,Europe,L920924,G925777,1047.9675
+4/10/2023,59.1176,-3.1492,United Kingdom,2.3,onshore,operating,2009,,Northern Europe,Europe,L920924,G925778,1047.9675
+4/10/2023,56.2154,-3.7689,United Kingdom,4,onshore,operating,2014,,Northern Europe,Europe,L912759,G925779,1150.8743
+4/10/2023,57.1613,-2.8114,United Kingdom,6.9,onshore,pre-construction,,,Northern Europe,Europe,L920925,G925780,650.3151
+4/10/2023,57.1613,-2.8114,United Kingdom,6.9,onshore,pre-construction,,,Northern Europe,Europe,L920925,G925781,650.3151
+4/10/2023,57.1594,-2.8156,United Kingdom,6.9,onshore,pre-construction,,,Northern Europe,Europe,L920925,G925782,633.8462
+4/10/2023,52.5373,-0.0337,United Kingdom,6,onshore,operating,2013,,Northern Europe,Europe,L920926,G925783,512.6807
+4/10/2023,60.1648,-1.2361,United Kingdom,3.7,onshore,operating,2000,,Northern Europe,Europe,L920927,G925784,871.2957
+4/10/2023,52.3536,-0.6565,United Kingdom,7.5,onshore,operating,2017,,Northern Europe,Europe,L920928,G925785,528.56055
+4/10/2023,57.6313,-2.4177,United Kingdom,1.5,onshore,pre-construction,,,Northern Europe,Europe,L920929,G925787,791.711
+4/10/2023,57.6313,-2.4177,United Kingdom,1.5,onshore,pre-construction,,,Northern Europe,Europe,L920929,G925788,791.711
+4/10/2023,57.3333,-2.2558,United Kingdom,1,onshore,pre-construction,,,Northern Europe,Europe,L920930,G925789,628.396
+4/10/2023,57.3333,-2.2558,United Kingdom,3.6,onshore,pre-construction,,,Northern Europe,Europe,L920931,G925790,628.396
+4/10/2023,57.3153,-2.8137,United Kingdom,2.6,onshore,operating,2010,,Northern Europe,Europe,L920932,G925791,860.2973
+4/10/2023,55.7648,-3.0176,United Kingdom,6,onshore,operating,2010,,Northern Europe,Europe,L920935,G925794,1239.3187
+4/10/2023,50.3509,-5.0306,United Kingdom,6,onshore,retired,1992,,Northern Europe,Europe,L911506,G925795,556.342
+4/10/2023,54.0716,-0.2468,United Kingdom,6,onshore,pre-construction,,,Northern Europe,Europe,L920936,G925796,564.363
+4/10/2023,53.0845,-1.6336,United Kingdom,8,onshore,operating,2014,,Northern Europe,Europe,L920938,G925799,932.9384
+4/10/2023,57.2828,-2.4477,United Kingdom,2.4,onshore,operating,2013,,Northern Europe,Europe,L920939,G925800,589.9337
+4/10/2023,51.72,-5.0128,United Kingdom,3.2,onshore,operating,2009,,Northern Europe,Europe,L920940,G925801,683.5188
+4/10/2023,55.7971,-4.2153,United Kingdom,3,onshore,operating,2013,,Northern Europe,Europe,L920941,G925802,773.63135
+4/10/2023,53.677,-1.0841,United Kingdom,2,onshore,operating,2016,,Northern Europe,Europe,L920942,G925803,506.0081
+4/10/2023,52.6579,-3.6721,United Kingdom,3.4,onshore,operating,2002,,Northern Europe,Europe,L920946,G925808,601.61346
+4/10/2023,51.9549,-0.6314,United Kingdom,3,onshore,pre-construction,,,Northern Europe,Europe,L920949,G925811,529.34106
+4/10/2023,53.9624,-1.9142,United Kingdom,1.3,onshore,operating,1992,,Northern Europe,Europe,L920950,G925812,796.6425
+4/10/2023,53.9624,-1.9142,United Kingdom,1.2,onshore,operating,2004,,Northern Europe,Europe,L920950,G925813,796.6425
+4/10/2023,50.6522,-1.3818,United Kingdom,9,onshore,pre-construction,,,Northern Europe,Europe,L920951,G925814,667.3162
+4/10/2023,50.6563,-1.3754,United Kingdom,1.2,onshore,pre-construction,,,Northern Europe,Europe,L920952,G925815,746.138
+4/10/2023,52.8569,0.6908,United Kingdom,8.2,onshore,operating,2016,,Northern Europe,Europe,L920953,G925816,609.5908
+4/10/2023,56.1177,-3.2526,United Kingdom,6.9,onshore,operating,2016,,Northern Europe,Europe,L920954,G925817,693.38354
+4/10/2023,56.9335,-2.2906,United Kingdom,5.2,onshore,operating,2012,,Northern Europe,Europe,L920955,G925818,691.7031
+4/10/2023,54.5304,-7.0078,United Kingdom,4.8,onshore,pre-construction,,,Northern Europe,Europe,L920956,G925819,824.27313
+4/10/2023,54.9679,-7.3129,United Kingdom,4.6,onshore,operating,2015,,Northern Europe,Europe,L920957,G925820,928.8814
+4/10/2023,53.7497,-2.15,United Kingdom,9.6,onshore,operating,1993,,Northern Europe,Europe,L910509,G925823,1015.5301
+4/10/2023,50.6455,-4.5468,United Kingdom,6.6,onshore,operating,2002,,Northern Europe,Europe,L920959,G925824,907.2467
+4/10/2023,52.2774,-0.2877,United Kingdom,6.2,onshore,operating,2019,,Northern Europe,Europe,L920961,G925826,566.48553
+4/10/2023,54.7661,-6.3071,United Kingdom,1.7,onshore,operating,2012,,Northern Europe,Europe,L920962,G925827,630.3119
+4/10/2023,54.7902,-6.1778,United Kingdom,5,onshore,operating,2017,,Northern Europe,Europe,L920963,G925828,727.6617
+4/10/2023,55.0436,-6.2873,United Kingdom,5,onshore,operating,1994,,Northern Europe,Europe,L911516,G925829,953.3962
+4/10/2023,55.0445,-6.2797,United Kingdom,2.5,onshore,operating,2017,,Northern Europe,Europe,L911516,G925830,933.4061
+4/10/2023,55.0453,-6.2901,United Kingdom,2.3,onshore,pre-construction,,,Northern Europe,Europe,L911516,G925831,953.3962
+4/10/2023,57.392,-2.261,United Kingdom,2.3,onshore,operating,2009,,Northern Europe,Europe,L920964,G925833,586.78796
+4/10/2023,54.8685,-5.0871,United Kingdom,2.5,onshore,operating,2017,,Northern Europe,Europe,L907796,G925835,923.4523
+4/10/2023,56.0455,-4.0685,United Kingdom,1.5,onshore,operating,2017,,Northern Europe,Europe,L920966,G925836,887.61957
+4/10/2023,50.9119,-4.4882,United Kingdom,2.4,onshore,operating,2011,,Northern Europe,Europe,L920967,G925837,831.10046
+4/10/2023,50.9119,-4.4882,United Kingdom,2.4,onshore,pre-construction,,,Northern Europe,Europe,L920967,G925838,831.10046
+4/10/2023,54.5516,-7.009,United Kingdom,2.5,onshore,operating,2012,,Northern Europe,Europe,L910201,G925839,861.1396
+4/10/2023,54.553,-7.0477,United Kingdom,7.5,onshore,operating,2017,,Northern Europe,Europe,L920968,G925840,923.07544
+4/10/2023,54.6145,-6.9552,United Kingdom,2,onshore,operating,2017,,Northern Europe,Europe,L920969,G925841,926.3469
+4/10/2023,53.6823,-1.0072,United Kingdom,3,onshore,operating,2008,,Northern Europe,Europe,L920970,G925842,510.73798
+4/10/2023,51.5022,0.1421,United Kingdom,2.5,onshore,operating,2014,,Northern Europe,Europe,L920971,G925843,292.4404
+4/10/2023,60.0499,-1.234,United Kingdom,2.7,onshore,pre-construction,,,Northern Europe,Europe,L920972,G925844,1109.8274
+4/10/2023,60.0481,-1.2477,United Kingdom,2.7,onshore,pre-construction,,,Northern Europe,Europe,L920972,G925845,1103.6508
+4/10/2023,60.0457,-1.227,United Kingdom,2.7,onshore,pre-construction,,,Northern Europe,Europe,L920973,G925846,922.8198
+4/10/2023,52.8065,-1.0343,United Kingdom,7.2,onshore,operating,2016,,Northern Europe,Europe,L920974,G925847,643.1697
+4/10/2023,55.8539,-3.9335,United Kingdom,2.5,onshore,operating,2013,,Northern Europe,Europe,L920975,G925848,569.79895
+4/10/2023,50.9299,-4.513,United Kingdom,2.6,onshore,operating,2011,,Northern Europe,Europe,L920976,G925849,890.4343
+4/10/2023,50.6356,-4.6034,United Kingdom,7.8,onshore,pre-construction,,,Northern Europe,Europe,L920977,G925850,862.5223
+4/10/2023,50.6378,-4.7053,United Kingdom,9.2,onshore,operating,2011,,Northern Europe,Europe,L920978,G925851,887.75867
+4/10/2023,50.6349,-4.7077,United Kingdom,4,onshore,retired,1991,,Northern Europe,Europe,L920978,G925852,878.4449
+4/10/2023,57.4112,-2.341,United Kingdom,2.3,onshore,operating,2011,,Northern Europe,Europe,L920979,G925853,637.7513
+4/10/2023,52.9082,-1.4131,United Kingdom,5,onshore,operating,2014,,Northern Europe,Europe,L920980,G925854,366.86023
+4/10/2023,57.5907,-2.6157,United Kingdom,6.9,onshore,operating,2017,,Northern Europe,Europe,L920981,G925855,874.87714
+4/10/2023,57.572,-2.6082,United Kingdom,2,onshore,pre-construction,,,Northern Europe,Europe,L920981,G925856,818.3198
+4/10/2023,52.4455,1.5497,United Kingdom,9,onshore,pre-construction,,,Northern Europe,Europe,L920982,G925857,540.8631
+4/10/2023,53.8883,-2.786,United Kingdom,2,onshore,operating,2010,,Northern Europe,Europe,L920983,G925858,633.6031
+4/10/2023,51.9519,-0.6343,United Kingdom,1.5,onshore,operating,2014,,Northern Europe,Europe,L920987,G925865,529.34106
+4/10/2023,55.6871,-3.9334,United Kingdom,4.2,onshore,pre-construction,,,Northern Europe,Europe,L920989,G925867,842.48376
+4/10/2023,54.8112,-6.7082,United Kingdom,6,onshore,operating,2017,,Northern Europe,Europe,L920991,G925869,685.23157
+4/10/2023,56.9229,-2.4007,United Kingdom,4.6,onshore,operating,2014,,Northern Europe,Europe,L920992,G925870,597.6348
+4/10/2023,54.3847,-7.4085,United Kingdom,1,onshore,pre-construction,,,Northern Europe,Europe,L920993,G925871,710.4637
+4/10/2023,55.9043,-3.779,United Kingdom,8.5,onshore,operating,2017,,Northern Europe,Europe,L920994,G925872,928.0618
+4/10/2023,55.0806,-6.879,United Kingdom,9,onshore,pre-construction,,,Northern Europe,Europe,L920995,G925873,707.29535
+4/10/2023,50.8079,-4.2597,United Kingdom,7.5,onshore,operating,2017,,Northern Europe,Europe,L920997,G925875,636.81384
+4/10/2023,56.5593,-2.7329,United Kingdom,6,onshore,pre-construction,,,Northern Europe,Europe,L920998,G925876,641.44086
+4/10/2023,51.9112,-4.5907,United Kingdom,5.5,onshore,operating,1994,,Northern Europe,Europe,L920999,G925877,788.51904
+4/10/2023,52.8262,-1.3427,United Kingdom,1,onshore,operating,2011,,Northern Europe,Europe,L921004,G925883,602.88385
+4/10/2023,50.9173,-4.4465,United Kingdom,4,onshore,operating,2015,,Northern Europe,Europe,L921005,G925884,772.8525
+4/10/2023,55.9242,-3.812,United Kingdom,4,onshore,pre-construction,,,Northern Europe,Europe,L921006,G925885,873.3757
+4/10/2023,55.9242,-3.812,United Kingdom,4,onshore,pre-construction,,,Northern Europe,Europe,L921006,G925886,873.3757
+4/10/2023,55.9242,-3.812,United Kingdom,4,onshore,pre-construction,,,Northern Europe,Europe,L921006,G925887,873.3757
+4/10/2023,55.9242,-3.812,United Kingdom,6,onshore,pre-construction,,,Northern Europe,Europe,L921006,G925888,873.3757
+4/10/2023,57.6607,-2.4175,United Kingdom,1.5,onshore,operating,2015,,Northern Europe,Europe,L921007,G925889,937.15643
+4/10/2023,57.157,-2.6219,United Kingdom,1.6,onshore,operating,2016,,Northern Europe,Europe,L921008,G925890,682.834
+4/10/2023,54.6712,-3.5401,United Kingdom,4,onshore,operating,2006,,Northern Europe,Europe,L921009,G925891,806.09576
+4/10/2023,54.7389,-6.119,United Kingdom,5,onshore,operating,1995,,Northern Europe,Europe,L921011,G925893,749.8864
+4/10/2023,53.7585,-0.3304,United Kingdom,3,onshore,operating,2018,,Northern Europe,Europe,L921012,G925894,430.31122
+4/10/2023,54.5506,-6.943,United Kingdom,6.9,onshore,operating,2016,,Northern Europe,Europe,L921013,G925895,944.637
+4/10/2023,56.054,-3.4443,United Kingdom,1.5,onshore,operating,2011,,Northern Europe,Europe,L921014,G925896,612.48694
+4/10/2023,54.5788,-3.5204,United Kingdom,6.5,onshore,operating,2011,,Northern Europe,Europe,L921015,G925897,819.8778
+4/10/2023,54.5791,-3.5254,United Kingdom,5.9,onshore,pre-construction,,,Northern Europe,Europe,L921015,G925898,819.8778
+4/10/2023,54.0379,-2.8719,United Kingdom,1.5,onshore,operating,2015,,Northern Europe,Europe,L921016,G925899,713.15234
+4/10/2023,53.6775,-0.1141,United Kingdom,7.5,onshore,operating,2017,,Northern Europe,Europe,L921017,G925900,677.18225
+4/10/2023,53.6737,-0.1267,United Kingdom,7.5,onshore,pre-construction,,,Northern Europe,Europe,L921017,G925901,719.223
+4/10/2023,55.9148,-2.4178,United Kingdom,1.5,onshore,operating,2015,,Northern Europe,Europe,L921018,G925902,1125.6887
+4/10/2023,58.8413,-3.0973,United Kingdom,1.8,onshore,operating,2010,,Northern Europe,Europe,L921020,G925904,1045.251
+4/10/2023,56.0564,-3.4466,United Kingdom,1.5,onshore,operating,2011,,Northern Europe,Europe,L921021,G925905,612.48694
+4/10/2023,51.5187,0.1508,United Kingdom,5.9,onshore,operating,2004,,Northern Europe,Europe,L921022,G925906,325.50665
+4/10/2023,51.5287,0.1504,United Kingdom,2,onshore,operating,2011,,Northern Europe,Europe,L921023,G925907,310.70633
+4/10/2023,51.6343,-3.4786,United Kingdom,1.5,onshore,pre-construction,,,Northern Europe,Europe,L921024,G925908,524.6808
+4/10/2023,58.6024,-3.6881,United Kingdom,2.6,onshore,operating,2003,,Northern Europe,Europe,L921026,G925910,1062.7203
+4/10/2023,58.6024,-3.6881,United Kingdom,5.2,onshore,operating,2007,,Northern Europe,Europe,L921026,G925911,1062.7203
+4/10/2023,58.6024,-3.6824,United Kingdom,4.5,onshore,pre-construction,,,Northern Europe,Europe,L921026,G925912,1062.7203
+4/10/2023,50.2889,-5.1374,United Kingdom,4.5,onshore,operating,1998,,Northern Europe,Europe,L921028,G925914,669.172
+4/10/2023,56.5686,-2.9512,United Kingdom,4,onshore,pre-construction,,,Northern Europe,Europe,L907851,G925915,736.41016
+4/10/2023,52.6635,-0.1043,United Kingdom,4,onshore,operating,2016,,Northern Europe,Europe,L921029,G925916,511.9149
+4/10/2023,52.6515,-0.0361,United Kingdom,4,onshore,pre-construction,,,Northern Europe,Europe,L921029,G925917,513.7996
+4/10/2023,51.5067,-3.1042,United Kingdom,2.3,onshore,operating,2011,,Northern Europe,Europe,L921030,G925918,409.96603
+4/10/2023,57.5936,-2.4241,United Kingdom,2.3,onshore,operating,2010,,Northern Europe,Europe,L921031,G925919,700.21967
+4/10/2023,59.2766,-2.9822,United Kingdom,1.8,onshore,operating,2013,,Northern Europe,Europe,L921032,G925920,1295.4618
+4/10/2023,53.8498,-0.7215,United Kingdom,1.8,onshore,pre-construction,,,Northern Europe,Europe,L921033,G925921,466.92487
+4/10/2023,50.9187,-4.2715,United Kingdom,9.2,onshore,operating,2014,,Northern Europe,Europe,L921034,G925922,702.5193
+4/10/2023,50.3069,-4.8851,United Kingdom,4,onshore,operating,2015,,Northern Europe,Europe,L921036,G925924,548.0202
+4/10/2023,57.6223,-2.613,United Kingdom,2.4,onshore,operating,2017,,Northern Europe,Europe,L921041,G925929,866.5415
+4/10/2023,55.5979,-4.6339,United Kingdom,7.5,onshore,operating,2013,,Northern Europe,Europe,L921044,G925932,766.0716
+4/10/2023,55.5929,-4.6182,United Kingdom,2.5,onshore,operating,2014,,Northern Europe,Europe,L921044,G925933,702.50525
+4/10/2023,55.0101,-6.4124,United Kingdom,6.9,onshore,operating,2017,,Northern Europe,Europe,L921046,G925935,773.72186
+4/10/2023,55.0101,-6.4124,United Kingdom,9.2,onshore,operating,2016,,Northern Europe,Europe,L921047,G925936,773.72186
+4/10/2023,56.0864,-3.3203,United Kingdom,2,onshore,operating,2015,,Northern Europe,Europe,L921049,G925938,684.8234
+4/10/2023,50.3497,-4.9606,United Kingdom,1,onshore,operating,2016,,Northern Europe,Europe,L921050,G925939,546.24725
+4/10/2023,50.0447,-5.2033,United Kingdom,5.6,onshore,retired,1993,,Northern Europe,Europe,L921051,G925940,641.9181
+4/10/2023,56.5823,-2.9497,United Kingdom,4.8,onshore,pre-construction,,,Northern Europe,Europe,L921052,G925941,736.41016
+4/10/2023,51.5589,-3.4255,United Kingdom,2.5,onshore,pre-construction,,,Northern Europe,Europe,L921053,G925942,624.10046
+4/10/2023,52.4399,1.5404,United Kingdom,9,onshore,pre-construction,,,Northern Europe,Europe,L921054,G925943,561.17957
+4/10/2023,54.8273,-1.4272,United Kingdom,3,onshore,operating,1997,,Northern Europe,Europe,L921056,G925945,708.09686
+4/10/2023,54.8273,-1.4272,United Kingdom,8.2,onshore,operating,2010,,Northern Europe,Europe,L921056,G925946,708.09686
+4/10/2023,54.8715,-3.0767,United Kingdom,4,onshore,operating,1999,,Northern Europe,Europe,L921057,G925947,765.23047
+4/10/2023,54.8706,-3.072,United Kingdom,2.3,onshore,operating,2000,,Northern Europe,Europe,L921057,G925948,765.23047
+4/10/2023,51.419,-0.9855,United Kingdom,2,onshore,operating,2005,,Northern Europe,Europe,L921058,G925949,413.6066
+4/10/2023,54.8497,-1.7487,United Kingdom,4,onshore,operating,2013,,Northern Europe,Europe,L921060,G925951,938.3974
+4/10/2023,55.912,-3.9032,United Kingdom,4,onshore,operating,2007,,Northern Europe,Europe,L921061,G925952,829.44183
+4/10/2023,57.5946,-2.2011,United Kingdom,4.6,onshore,operating,2012,,Northern Europe,Europe,L921062,G925953,806.4774
+4/10/2023,52.5207,-0.0046,United Kingdom,1.5,onshore,operating,2014,,Northern Europe,Europe,L921063,G925954,514.8321
+4/10/2023,52.5207,-0.0046,United Kingdom,2,onshore,pre-construction,,,Northern Europe,Europe,L921063,G925955,514.8321
+4/10/2023,60.1924,-1.1671,United Kingdom,3,onshore,operating,2015,,Northern Europe,Europe,L921064,G925956,951.7914
+4/10/2023,54.6677,-7.6735,United Kingdom,9.2,onshore,pre-construction,,,Northern Europe,Europe,L921066,G925958,754.3939
+4/10/2023,57.4287,-2.3076,United Kingdom,4.6,onshore,operating,2011,,Northern Europe,Europe,L921068,G925960,676.2618
+4/10/2023,52.9962,-3.5883,United Kingdom,2.6,onshore,operating,2002,,Northern Europe,Europe,L921069,G925961,954.7171
+4/10/2023,52.6398,-1.3252,United Kingdom,1.6,onshore,operating,2015,,Northern Europe,Europe,L921070,G925962,611.7771
+4/10/2023,53.771,-2.3062,United Kingdom,7.5,onshore,operating,2013,,Northern Europe,Europe,L908277,G925963,741.7797
+4/10/2023,59.0957,-3.0727,United Kingdom,4.3,onshore,operating,2010,,Northern Europe,Europe,L921071,G925964,875.30695
+4/10/2023,59.0891,-3.092,United Kingdom,8.4,onshore,pre-construction,,,Northern Europe,Europe,L921071,G925965,875.30695
+4/10/2023,53.5766,-1.255,United Kingdom,8,onshore,operating,2014,,Northern Europe,Europe,L921072,G925966,586.3485
+4/10/2023,55.8345,-3.5472,United Kingdom,4,onshore,pre-construction,,,Northern Europe,Europe,L921073,G925967,938.86914
+4/10/2023,54.7616,-1.4151,United Kingdom,1.3,onshore,operating,2004,,Northern Europe,Europe,L909672,G925968,761.5764
+4/10/2023,54.7616,-1.4151,United Kingdom,2.7,onshore,operating,2004,,Northern Europe,Europe,L909672,G925969,761.5764
+4/10/2023,54.2049,-3.1467,United Kingdom,2.5,onshore,operating,1997,,Northern Europe,Europe,L921074,G925970,862.33136
+4/10/2023,54.204,-3.3245,United Kingdom,2.4,onshore,operating,1998,,Northern Europe,Europe,L921076,G925972,796.2005
+4/10/2023,54.204,-3.3245,United Kingdom,1.2,onshore,operating,2004,,Northern Europe,Europe,L921076,G925973,796.2005
+4/10/2023,53.0482,-0.8142,United Kingdom,9,onshore,operating,2017,,Northern Europe,Europe,L921077,G925974,513.0476
+4/10/2023,55.5576,-3.8842,United Kingdom,1.6,onshore,construction,,,Northern Europe,Europe,L921078,G925975,861.1286
+4/10/2023,55.5508,-3.8853,United Kingdom,2.4,onshore,pre-construction,,,Northern Europe,Europe,L921078,G925976,861.1286
+4/10/2023,53.5316,-1.7312,United Kingdom,6,onshore,operating,2011,,Northern Europe,Europe,L921079,G925977,1276.0358
+4/3/2023,51.5742,-3.4774,United Kingdom,9,onshore,operating,1993,,Northern Europe,Europe,L910952,G925978,616.57245
+4/10/2023,54.7637,-1.7575,United Kingdom,2.4,onshore,operating,2001,,Northern Europe,Europe,L921080,G925979,1056.5973
+4/10/2023,54.8533,-3.3475,United Kingdom,9.2,onshore,operating,2011,,Northern Europe,Europe,L921081,G925980,787.71106
+4/10/2023,54.8528,-3.3483,United Kingdom,7.8,onshore,pre-construction,,,Northern Europe,Europe,L921081,G925981,787.71106
+4/10/2023,54.0342,-2.865,United Kingdom,7.5,onshore,operating,2015,,Northern Europe,Europe,L921082,G925982,737.70605
+4/10/2023,54.7875,-1.4312,United Kingdom,4,onshore,operating,2011,,Northern Europe,Europe,L921083,G925983,705.2858
+4/10/2023,54.7637,-1.7575,United Kingdom,5.2,onshore,operating,2008,,Northern Europe,Europe,L921084,G925984,1056.5973
+4/10/2023,54.7895,-3.1912,United Kingdom,3.9,onshore,operating,2007,,Northern Europe,Europe,L921085,G925985,897.0404
+4/10/2023,54.7887,-3.1904,United Kingdom,3.9,onshore,pre-construction,,,Northern Europe,Europe,L921085,G925986,897.0404
+4/10/2023,54.8403,-1.3375,United Kingdom,2.6,onshore,operating,2006,,Northern Europe,Europe,L921086,G925987,671.0312
+4/10/2023,54.6936,-1.3003,United Kingdom,5.5,onshore,operating,2003,,Northern Europe,Europe,L921087,G925988,693.368
+4/10/2023,57.4724,-2.241,United Kingdom,1.7,onshore,operating,2010,,Northern Europe,Europe,L921088,G925989,637.5164
+4/10/2023,57.3826,-2.7587,United Kingdom,7.2,onshore,pre-construction,,,Northern Europe,Europe,L921089,G925990,1232.3534
+4/10/2023,57.3863,-2.8546,United Kingdom,8,onshore,pre-construction,,,Northern Europe,Europe,L921090,G925991,595.4219
+4/10/2023,57.3761,-2.3933,United Kingdom,2.5,onshore,operating,2005,,Northern Europe,Europe,L921091,G925992,717.2895
+4/10/2023,57.3761,-2.3933,United Kingdom,2,onshore,operating,2007,,Northern Europe,Europe,L921091,G925993,717.2895
+4/10/2023,57.3109,-2.1096,United Kingdom,6.9,onshore,operating,2010,,Northern Europe,Europe,L921092,G925994,632.64
+4/10/2023,58.6024,-3.6881,United Kingdom,4.9,onshore,operating,2003,,Northern Europe,Europe,L921093,G925995,1062.7203
+4/10/2023,58.6013,-3.6798,United Kingdom,1.5,onshore,operating,2021,,Northern Europe,Europe,L921093,G925996,1061.9955
+4/10/2023,58.2693,-3.417,United Kingdom,2.4,onshore,pre-construction,,,Northern Europe,Europe,L921094,G925997,825.1059
+4/10/2023,57.4535,-2.1647,United Kingdom,6.9,onshore,operating,2015,,Northern Europe,Europe,L921095,G925998,630.6937
+4/10/2023,57.3441,-2.6104,United Kingdom,9.6,onshore,operating,2016,,Northern Europe,Europe,L921096,G925999,653.85443
+4/10/2023,57.3441,-2.6104,United Kingdom,6,onshore,pre-construction,,,Northern Europe,Europe,L921097,G926000,653.85443
+4/10/2023,56.9552,-3.1772,United Kingdom,6.9,onshore,operating,2013,,Northern Europe,Europe,L921098,G926001,1411.0027
+4/10/2023,56.9552,-3.1772,United Kingdom,6,onshore,pre-construction,,,Northern Europe,Europe,L921098,G926002,1411.0027
+4/10/2023,57.5778,-2.2519,United Kingdom,4.6,onshore,pre-construction,,,Northern Europe,Europe,L921099,G926003,803.6227
+4/10/2023,51.395,0.8509,United Kingdom,4.6,onshore,operating,2013,,Northern Europe,Europe,L921101,G926005,536.31006
+4/10/2023,53.6777,-2.4195,United Kingdom,2.4,onshore,pre-construction,,,Northern Europe,Europe,L921102,G926006,777.082
+4/10/2023,53.6777,-2.4195,United Kingdom,2.4,onshore,pre-construction,,,Northern Europe,Europe,L921102,G926007,777.082
+4/10/2023,52.6851,-1.6706,United Kingdom,8,onshore,pre-construction,,,Northern Europe,Europe,L921103,G926008,478.20456
+4/10/2023,54.8471,-1.6776,United Kingdom,2.8,onshore,operating,2004,,Northern Europe,Europe,L921105,G926010,800.2866
+4/10/2023,55.9207,-2.3915,United Kingdom,6.9,onshore,operating,2017,,Northern Europe,Europe,L921106,G926011,1125.5614
+4/10/2023,57.6219,-2.0425,United Kingdom,5,onshore,operating,2010,,Northern Europe,Europe,L921107,G926012,800.8848
+4/10/2023,52.3367,1.1266,United Kingdom,5,onshore,operating,2013,,Northern Europe,Europe,L921108,G926013,534.2276
+4/10/2023,53.7187,-2.3846,United Kingdom,8.2,onshore,pre-construction,,,Northern Europe,Europe,L912413,G926014,890.75574
+4/10/2023,56.9399,-2.3866,United Kingdom,6.8,onshore,operating,2014,,Northern Europe,Europe,L921109,G926015,623.78406
+4/10/2023,52.7712,0.3857,United Kingdom,1.5,onshore,operating,2013,,Northern Europe,Europe,L921110,G926016,526.4104
+4/10/2023,55.8173,-2.8255,United Kingdom,4.5,onshore,operating,2017,,Northern Europe,Europe,L921111,G926017,996.2532
+4/10/2023,51.5368,-3.736,United Kingdom,1.5,onshore,pre-construction,,,Northern Europe,Europe,L921112,G926018,617.20685
+4/10/2023,51.5368,-3.736,United Kingdom,1.5,onshore,pre-construction,,,Northern Europe,Europe,L921112,G926019,617.20685
+4/10/2023,55.9348,-2.3637,United Kingdom,5,onshore,operating,2017,,Northern Europe,Europe,L921113,G926020,1115.7375
+4/10/2023,55.9348,-2.3637,United Kingdom,5,onshore,pre-construction,,,Northern Europe,Europe,L921113,G926021,1115.7375
+4/10/2023,53.2897,-3.2008,United Kingdom,1.8,onshore,operating,2019,,Northern Europe,Europe,L921114,G926022,777.13416
+4/10/2023,54.2575,-3.1357,United Kingdom,4.8,onshore,operating,1993,,Northern Europe,Europe,L911103,G926023,769.7116
+4/10/2023,55.0865,-1.989,United Kingdom,1.8,onshore,operating,2000,,Northern Europe,Europe,L921115,G926024,994.89905
+4/10/2023,55.128,-4.0887,United Kingdom,5,onshore,pre-construction,,,Northern Europe,Europe,L921119,G926028,541.86926
+4/10/2023,55.1208,-4.0753,United Kingdom,5,onshore,pre-construction,,,Northern Europe,Europe,L921120,G926029,541.86926
+4/10/2023,55.3887,-4.1972,United Kingdom,4,onshore,pre-construction,,,Northern Europe,Europe,L921121,G926030,752.03436
+4/10/2023,55.6495,-3.9221,United Kingdom,2.4,onshore,operating,2016,,Northern Europe,Europe,L921122,G926031,912.7389
+4/10/2023,58.0027,-4.3487,United Kingdom,7.5,onshore,operating,2012,,Northern Europe,Europe,L913751,G926032,758.91266
+4/10/2023,54.3363,-2.6351,United Kingdom,6.5,onshore,operating,2001,,Northern Europe,Europe,L921123,G926033,772.39453
+4/10/2023,54.5462,-1.3263,United Kingdom,8,onshore,operating,2017,,Northern Europe,Europe,L921124,G926034,457.50482
+4/10/2023,54.0072,-2.7795,United Kingdom,2,onshore,operating,2013,,Northern Europe,Europe,L921126,G926036,731.9152
+4/10/2023,54.6871,-3.514,United Kingdom,6.2,onshore,operating,2013,,Northern Europe,Europe,L921127,G926037,845.5834
+4/10/2023,54.6871,-3.514,United Kingdom,9.5,onshore,pre-construction,,,Northern Europe,Europe,L921127,G926038,845.5834
+4/10/2023,57.5822,-1.8993,United Kingdom,9.2,onshore,operating,2013,,Northern Europe,Europe,L921128,G926039,706.1963
+4/10/2023,58.4024,-3.4169,United Kingdom,4.1,onshore,construction,,,Northern Europe,Europe,L921129,G926040,741.76184
+4/10/2023,50.3208,-5.0556,United Kingdom,2.3,onshore,operating,2020,,Northern Europe,Europe,L921130,G926041,531.6732
+4/10/2023,50.3208,-5.0556,United Kingdom,1.5,onshore,pre-construction,,,Northern Europe,Europe,L921130,G926042,531.6732
+4/10/2023,55.7724,-3.7889,United Kingdom,2.3,onshore,pre-construction,,,Northern Europe,Europe,L921131,G926043,829.606
+4/10/2023,57.413,-2.4169,United Kingdom,3.6,onshore,pre-construction,,,Northern Europe,Europe,L921132,G926044,693.38385
+4/10/2023,54.6434,-6.0093,United Kingdom,2.3,onshore,pre-construction,,,Northern Europe,Europe,L921133,G926045,1024.9246
+4/10/2023,54.8237,-1.6758,United Kingdom,8,onshore,operating,2008,,Northern Europe,Europe,L921134,G926046,800.2866
+4/10/2023,52.4492,1.5108,United Kingdom,9,onshore,pre-construction,,,Northern Europe,Europe,L921135,G926047,546.2819
+4/10/2023,52.4492,1.5108,United Kingdom,9,onshore,pre-construction,,,Northern Europe,Europe,L921135,G926048,546.2819
+4/10/2023,51.7745,-5.0008,United Kingdom,1.6,onshore,operating,2017,,Northern Europe,Europe,L921136,G926049,630.6474
+4/10/2023,54.3927,-7.1834,United Kingdom,5.9,onshore,operating,2000,,Northern Europe,Europe,L921137,G926050,793.5331
+4/10/2023,54.3938,-7.1489,United Kingdom,7.3,onshore,operating,2002,,Northern Europe,Europe,L921137,G926051,865.9118
+4/10/2023,56.1607,-2.958,United Kingdom,7,offshore mount unknown,operating,2014,,Northern Europe,Europe,L921139,G926053,827.63885
+4/10/2023,55.5302,-4.1196,United Kingdom,1.7,onshore,pre-construction,,,Northern Europe,Europe,L921140,G926054,742.01227
+4/10/2023,51.5225,0.2776,United Kingdom,1,onshore,operating,2016,,Northern Europe,Europe,L921141,G926055,385.7305
+4/10/2023,57.6004,-2.293,United Kingdom,1,onshore,pre-construction,,,Northern Europe,Europe,L921142,G926056,744.16125
+4/10/2023,57.607,-2.2901,United Kingdom,4.5,onshore,operating,2012,,Northern Europe,Europe,L921143,G926057,744.16125
+4/10/2023,52.3069,-4.0292,United Kingdom,9.4,onshore,operating,2004,,Northern Europe,Europe,L921145,G926059,900.6947
+4/10/2023,51.6158,-3.3987,United Kingdom,5,onshore,pre-construction,,,Northern Europe,Europe,L921146,G926060,550.49915
+4/10/2023,51.626,-3.3936,United Kingdom,7.2,onshore,pre-construction,,,Northern Europe,Europe,L921146,G926061,567.64185
+4/10/2023,51.6427,-3.6147,United Kingdom,6,onshore,operating,2017,,Northern Europe,Europe,L921147,G926062,747.79913
+4/10/2023,58.3836,-6.493,United Kingdom,2.7,onshore,operating,2015,,Northern Europe,Europe,L921149,G926065,973.50275
+4/10/2023,57.2337,-7.3479,United Kingdom,6.9,onshore,operating,2013,,Northern Europe,Europe,L921150,G926066,721.4462
+4/10/2023,56.3054,-3.4329,United Kingdom,9.6,onshore,operating,2011,,Northern Europe,Europe,L921151,G926067,951.14294
+4/10/2023,58.5951,-3.2629,United Kingdom,9.2,onshore,operating,2017,,Northern Europe,Europe,L921152,G926068,850.9157
+4/10/2023,55.6959,-3.9824,United Kingdom,6,onshore,operating,2009,,Northern Europe,Europe,L921153,G926069,856.83826
+4/10/2023,51.7263,-5.0609,United Kingdom,1,onshore,operating,2006,,Northern Europe,Europe,L921154,G926070,719.6384
+4/10/2023,53.7568,-0.9377,United Kingdom,1.3,onshore,operating,2008,,Northern Europe,Europe,L921155,G926071,505.48007
+4/10/2023,52.5731,0.0893,United Kingdom,2,onshore,operating,2005,,Northern Europe,Europe,L921156,G926072,491.1563
+4/10/2023,51.5708,-2.8486,United Kingdom,3.5,onshore,pre-construction,,,Northern Europe,Europe,L921157,G926073,529.40106
+4/10/2023,51.5633,-3.7479,United Kingdom,1.5,onshore,operating,2014,,Northern Europe,Europe,L921158,G926074,630.1784
+4/10/2023,53.3145,-1.236,United Kingdom,4.5,onshore,operating,2011,,Northern Europe,Europe,L921160,G926076,580.6641
+4/10/2023,52.5024,-1.1792,United Kingdom,8,onshore,operating,2011,,Northern Europe,Europe,L921162,G926078,659.2253
+4/10/2023,54.5974,-3.571,United Kingdom,4.7,onshore,operating,2000,,Northern Europe,Europe,L921163,G926079,840.84674
+4/10/2023,50.3631,-4.8371,United Kingdom,4.1,onshore,pre-construction,,,Northern Europe,Europe,L921164,G926080,809.5895
+4/10/2023,58.31,-3.3456,United Kingdom,1,onshore,pre-construction,,,Northern Europe,Europe,L921165,G926081,719.46564
+4/10/2023,58.3095,-3.3466,United Kingdom,1,onshore,pre-construction,,,Northern Europe,Europe,L921165,G926082,719.46564
+4/10/2023,55.2034,-1.5302,United Kingdom,2.4,onshore,pre-construction,,,Northern Europe,Europe,L921166,G926083,686.7002
+4/10/2023,52.3495,-1.1577,United Kingdom,4,onshore,operating,2014,,Northern Europe,Europe,L921167,G926084,594.1088
+4/10/2023,52.1617,-0.8617,United Kingdom,7.2,onshore,operating,2014,,Northern Europe,Europe,L921168,G926085,567.18243
+4/10/2023,51.7406,-3.6442,United Kingdom,2.5,onshore,operating,2016,,Northern Europe,Europe,L912800,G926087,285.46744
+4/10/2023,54.7691,-6.6477,United Kingdom,1,onshore,operating,2015,,Northern Europe,Europe,L921170,G926088,719.0224
+4/10/2023,57.3545,-2.245,United Kingdom,6.9,onshore,pre-construction,,,Northern Europe,Europe,L921172,G926090,662.3816
+4/10/2023,57.6153,-2.0667,United Kingdom,2.4,onshore,operating,2012,,Northern Europe,Europe,L921173,G926091,760.86945
+4/10/2023,52.5713,0.1215,United Kingdom,2,onshore,operating,2012,,Northern Europe,Europe,L921176,G926094,494.26614
+4/10/2023,53.533,-1.2397,United Kingdom,8,onshore,operating,2012,,Northern Europe,Europe,L921177,G926095,570.2133
+4/10/2023,55.6871,-3.9334,United Kingdom,1.5,onshore,operating,2015,,Northern Europe,Europe,L921179,G926097,842.48376
+4/10/2023,52.0647,-0.5354,United Kingdom,1.5,onshore,operating,2014,,Northern Europe,Europe,L921180,G926098,532.2937
+4/10/2023,53.6335,-2.7803,United Kingdom,2.3,onshore,operating,2012,,Northern Europe,Europe,L921181,G926099,505.535
+4/10/2023,57.4804,-2.9151,United Kingdom,1,onshore,pre-construction,,,Northern Europe,Europe,L921182,G926100,1009.66986
+4/10/2023,53.7347,-0.5219,United Kingdom,3,onshore,pre-construction,,,Northern Europe,Europe,L921183,G926101,621.6234
+4/10/2023,53.7172,-0.5403,United Kingdom,4.6,onshore,operating,2017,,Northern Europe,Europe,L921184,G926102,612.82263
+4/10/2023,53.7172,-0.5336,United Kingdom,5,onshore,operating,2017,,Northern Europe,Europe,L921185,G926103,612.82263
+4/10/2023,53.7144,-0.5389,United Kingdom,5,onshore,pre-construction,,,Northern Europe,Europe,L921185,G926104,612.82263
+4/10/2023,56.4836,-2.8938,United Kingdom,4,onshore,operating,2006,,Northern Europe,Europe,L921187,G926106,499.67404
+4/10/2023,56.1537,-3.1645,United Kingdom,6.4,onshore,operating,2016,,Northern Europe,Europe,L921189,G926108,616.89417
+4/10/2023,55.7358,-4.7809,United Kingdom,6.4,onshore,operating,2016,,Northern Europe,Europe,L911165,G926111,911.4693
+4/10/2023,55.7343,-4.7757,United Kingdom,6,onshore,pre-construction,,,Northern Europe,Europe,L911165,G926112,911.4693
+4/10/2023,57.6204,-2.4191,United Kingdom,4.6,onshore,operating,2016,,Northern Europe,Europe,L921192,G926113,707.64655
+4/10/2023,53.1363,-3.725,United Kingdom,2.6,onshore,operating,2003,,Northern Europe,Europe,L908679,G926114,1016.8083
+4/10/2023,57.9417,-6.8318,United Kingdom,1.5,onshore,operating,2015,,Northern Europe,Europe,L921194,G926116,964.01624
+4/10/2023,55.9039,-2.2508,United Kingdom,1,onshore,operating,2018,,Northern Europe,Europe,L921195,G926117,1097.2527
+4/10/2023,57.6599,-2.6462,United Kingdom,2.3,onshore,operating,2012,,Northern Europe,Europe,L921202,G926124,827.23
+4/10/2023,56.0905,-3.3177,United Kingdom,4.6,onshore,operating,2015,,Northern Europe,Europe,L921205,G926127,689.78827
+4/10/2023,51.6025,-2.387,United Kingdom,1,onshore,operating,2017,,Northern Europe,Europe,L921206,G926128,536.4269
+4/10/2023,57.3467,-2.2592,United Kingdom,2.4,onshore,pre-construction,,,Northern Europe,Europe,L921207,G926129,639.5718
+4/10/2023,55.1035,-1.6222,United Kingdom,4,onshore,operating,2011,,Northern Europe,Europe,L921208,G926130,715.13904
+4/10/2023,57.6114,-2.7244,United Kingdom,4.6,onshore,operating,2011,,Northern Europe,Europe,L921210,G926132,824.9251
+4/10/2023,55.7007,-2.8036,United Kingdom,4,onshore,pre-construction,,,Northern Europe,Europe,L921211,G926133,917.29663
+4/10/2023,55.7584,-3.6056,United Kingdom,6.8,onshore,operating,2014,,Northern Europe,Europe,L921212,G926134,852.4428
+4/10/2023,55.7584,-3.6056,United Kingdom,8.3,onshore,operating,2016,,Northern Europe,Europe,L921212,G926135,852.4428
+4/10/2023,51.583,-3.7457,United Kingdom,8,onshore,operating,2017,,Northern Europe,Europe,L921213,G926136,450.2438
+4/10/2023,52.0489,-4.0873,United Kingdom,4.6,onshore,pre-construction,,,Northern Europe,Europe,L921217,G926140,805.9768
+4/10/2023,51.5564,-3.4597,United Kingdom,9.4,onshore,operating,2012,,Northern Europe,Europe,L909118,G926141,634.41516
+4/10/2023,51.7784,-3.8472,United Kingdom,4.7,onshore,operating,2017,,Northern Europe,Europe,L921219,G926143,673.7939
+4/10/2023,51.7819,-3.8407,United Kingdom,4.7,onshore,pre-construction,,,Northern Europe,Europe,L921219,G926144,675.1767
+4/10/2023,55.6919,-4.279,United Kingdom,1.8,onshore,operating,2001,,Northern Europe,Europe,L921221,G926146,809.41895
+4/10/2023,57.599,-2.8425,United Kingdom,1.6,onshore,operating,2013,,Northern Europe,Europe,L921222,G926147,846.03986
+4/10/2023,51.5511,-2.9591,United Kingdom,2.5,onshore,operating,2017,,Northern Europe,Europe,L921223,G926148,496
+4/10/2023,55.6907,-4.2844,United Kingdom,4.7,onshore,operating,2001,,Northern Europe,Europe,L921224,G926149,735.98456
+4/10/2023,55.7541,-4.4667,United Kingdom,9.2,onshore,operating,2013,,Northern Europe,Europe,L921226,G926151,955.93365
+4/10/2023,52.4804,1.761,United Kingdom,2.3,onshore,operating,2004,,Northern Europe,Europe,L921228,G926153,619.27545
+4/10/2023,55.7404,-4.4718,United Kingdom,4.2,onshore,pre-construction,,,Northern Europe,Europe,L921229,G926154,862.55664
+4/10/2023,50.7443,-4.3354,United Kingdom,1.5,onshore,operating,2016,,Northern Europe,Europe,L921230,G926155,585.4751
+4/10/2023,57.6028,-2.8559,United Kingdom,4.6,onshore,operating,2014,,Northern Europe,Europe,L921231,G926156,763.5393
+4/10/2023,53.7732,-2.3034,United Kingdom,4.5,onshore,operating,2007,,Northern Europe,Europe,L921232,G926157,864.5512
+4/10/2023,58.9133,-2.8689,United Kingdom,1,onshore,operating,2014,,Northern Europe,Europe,L921233,G926158,1075.2292
+4/10/2023,51.396,0.8633,United Kingdom,8.8,onshore,operating,2018,,Northern Europe,Europe,L921234,G926159,537.5108
+4/10/2023,53.0753,-1.2178,United Kingdom,1.5,onshore,operating,2016,,Northern Europe,Europe,L921235,G926160,520.46826
+4/10/2023,52.9988,-1.2979,United Kingdom,2.5,onshore,operating,2014,,Northern Europe,Europe,L921236,G926161,478.99704
+4/10/2023,51.5022,-3.669,United Kingdom,5,onshore,operating,2016,,Northern Europe,Europe,L921237,G926162,636.9418
+4/10/2023,53.5093,0.009,United Kingdom,4.6,onshore,operating,2014,,Northern Europe,Europe,L921238,G926163,605.87085
+4/10/2023,54.9139,-1.4808,United Kingdom,2,onshore,operating,2008,,Northern Europe,Europe,L921239,G926164,512.4491
+4/10/2023,54.9139,-1.4808,United Kingdom,4,onshore,operating,2005,,Northern Europe,Europe,L921240,G926165,512.4491
+4/10/2023,56.1641,-3.1593,United Kingdom,1.5,onshore,operating,2014,,Northern Europe,Europe,L921242,G926167,617.2725
+4/10/2023,53.8837,-0.7298,United Kingdom,1,onshore,pre-construction,,,Northern Europe,Europe,L921245,G926171,478.18008
+4/10/2023,52.6256,0.7335,United Kingdom,4,onshore,operating,2014,,Northern Europe,Europe,L921246,G926172,547.977
+4/10/2023,57.5876,-2.0091,United Kingdom,1.6,onshore,operating,2008,,Northern Europe,Europe,L921247,G926173,726.2606
+4/10/2023,60.6661,-1.0052,United Kingdom,4.5,onshore,operating,2017,,Northern Europe,Europe,L921248,G926174,1050.4597
+4/10/2023,52.1643,-2.1427,United Kingdom,1.3,onshore,operating,2015,,Northern Europe,Europe,L921250,G926176,447.3029
+4/10/2023,51.6869,-3.1714,United Kingdom,4,onshore,operating,2013,,Northern Europe,Europe,L921251,G926177,662.21136
+4/10/2023,54.6596,-3.5564,United Kingdom,5.4,onshore,operating,1996,,Northern Europe,Europe,L921252,G926178,837.78015
+4/10/2023,53.9001,-2.8657,United Kingdom,4,onshore,operating,2013,,Northern Europe,Europe,L921255,G926181,607.0329
+4/10/2023,53.9001,-2.8657,United Kingdom,4,onshore,pre-construction,,,Northern Europe,Europe,L921255,G926182,607.0329
+4/10/2023,54.869,-3.0067,United Kingdom,1.6,onshore,operating,2017,,Northern Europe,Europe,L921259,G926186,738.4809
+4/10/2023,50.6849,-4.6103,United Kingdom,3.2,onshore,operating,2011,,Northern Europe,Europe,L921261,G926188,919.2845
+4/10/2023,50.6849,-4.6103,United Kingdom,7.4,onshore,pre-construction,,,Northern Europe,Europe,L921261,G926189,919.2845
+4/10/2023,53.6689,0.0994,United Kingdom,9,onshore,operating,2002,,Northern Europe,Europe,L921263,G926191,739.4699
+4/10/2023,53.7742,-1.9368,United Kingdom,9.2,onshore,retired,1993,,Northern Europe,Europe,L911185,G926193,1156.7196
+4/10/2023,54.8097,-7.339,United Kingdom,5,onshore,operating,1997,,Northern Europe,Europe,L921265,G926194,1124.676
+4/10/2023,54.8066,-7.3341,United Kingdom,5.1,onshore,operating,2008,,Northern Europe,Europe,L921265,G926195,1124.676
+4/10/2023,51.607,-3.5315,United Kingdom,5,onshore,pre-construction,,,Northern Europe,Europe,L911658,G926196,461.57373
+4/10/2023,51.5077,-3.6711,United Kingdom,2.5,onshore,construction,,,Northern Europe,Europe,L921266,G926197,636.9418
+4/10/2023,51.7569,-4.5297,United Kingdom,3.6,onshore,operating,2001,,Northern Europe,Europe,L921267,G926198,781.99963
+4/10/2023,51.7592,-4.5338,United Kingdom,8.4,onshore,operating,2009,,Northern Europe,Europe,L921267,G926199,762.19354
+4/10/2023,53.574,-1.4021,United Kingdom,8.6,onshore,operating,2015,,Northern Europe,Europe,L921268,G926200,516.6277
+4/10/2023,51.7749,-3.2759,United Kingdom,4,onshore,operating,2018,,Northern Europe,Europe,L921270,G926202,800.96277
+4/10/2023,51.6511,-3.4512,United Kingdom,6.4,onshore,operating,2011,,Northern Europe,Europe,L921272,G926204,480.6692
+4/10/2023,52.2098,-3.1795,United Kingdom,9.2,onshore,pre-construction,,,Northern Europe,Europe,L921274,G926206,1115.257
+4/10/2023,58.5356,-4.1947,United Kingdom,5,onshore,operating,2013,,Northern Europe,Europe,L921276,G926208,973.9315
+4/10/2023,52.7699,0.3879,United Kingdom,1.5,onshore,pre-construction,,,Northern Europe,Europe,L921277,G926209,526.4104
+4/10/2023,56.3836,-3.4621,United Kingdom,1,onshore,pre-construction,,,Northern Europe,Europe,L921278,G926210,608.15393
+4/10/2023,54.9563,-3.7602,United Kingdom,2.4,onshore,operating,2015,,Northern Europe,Europe,L921279,G926211,632.42316
+4/10/2023,54.9537,-3.7676,United Kingdom,2.4,onshore,pre-construction,,,Northern Europe,Europe,L921279,G926212,632.42316
+4/10/2023,52.2363,-0.6089,United Kingdom,8.6,onshore,operating,2017,,Northern Europe,Europe,L921280,G926213,559.0437
+4/10/2023,55.8219,-2.833,United Kingdom,5.1,onshore,operating,2019,,Northern Europe,Europe,L921281,G926214,985.6512
+4/10/2023,55.8395,-2.8421,United Kingdom,4.8,onshore,operating,2019,,Northern Europe,Europe,L921282,G926215,958.3287
+4/10/2023,58.208,-6.4807,United Kingdom,9,onshore,operating,2015,,Northern Europe,Europe,L921283,G926216,715.93286
+4/10/2023,51.4431,0.7479,United Kingdom,8.2,onshore,operating,2016,,Northern Europe,Europe,L921284,G926217,612.22473
+4/10/2023,54.6027,-3.5031,United Kingdom,6,onshore,operating,2016,,Northern Europe,Europe,L921285,G926218,793.67444
+4/10/2023,51.772,-4.6844,United Kingdom,1.6,onshore,operating,2014,,Northern Europe,Europe,L921286,G926219,674.53564
+4/10/2023,53.5113,-2.7378,United Kingdom,1,onshore,operating,2014,,Northern Europe,Europe,L921287,G926220,479.03546
+4/10/2023,51.8424,-0.836,United Kingdom,1.5,onshore,operating,2014,,Northern Europe,Europe,L921289,G926222,494.39987
+4/10/2023,52.4469,-0.1063,United Kingdom,1.8,onshore,operating,2008,,Northern Europe,Europe,L921290,G926223,510.94946
+4/10/2023,52.4681,-0.1224,United Kingdom,8,onshore,operating,2015,,Northern Europe,Europe,L921291,G926224,509.39212
+4/10/2023,52.5127,0.0314,United Kingdom,6,onshore,operating,2007,,Northern Europe,Europe,L921292,G926225,515.3374
+4/10/2023,52.5106,0.0373,United Kingdom,4,onshore,operating,2007,,Northern Europe,Europe,L921292,G926226,515.54956
+4/10/2023,51.8023,-3.2327,United Kingdom,1.5,onshore,pre-construction,,,Northern Europe,Europe,L921293,G926227,883.67224
+4/10/2023,53.7015,-2.1681,United Kingdom,9,onshore,pre-construction,,,Northern Europe,Europe,L921294,G926228,1011.72125
+4/10/2023,52.4076,-3.8772,United Kingdom,2.4,onshore,operating,1997,,Northern Europe,Europe,L921295,G926229,1001.2878
+4/10/2023,55.0219,-6.8198,United Kingdom,5,onshore,operating,1994,,Northern Europe,Europe,L913060,G926231,1162.4487
+4/10/2023,52.7024,-2.1172,United Kingdom,4,onshore,operating,2017,,Northern Europe,Europe,L921297,G926232,532.6129
+4/10/2023,56.055,-3.8281,United Kingdom,2.4,onshore,operating,2015,,Northern Europe,Europe,L921298,G926233,509.81912
+4/10/2023,50.1773,-5.1317,United Kingdom,1.7,onshore,operating,2007,,Northern Europe,Europe,L921299,G926234,653.6042
+4/10/2023,59.0973,-2.6601,United Kingdom,2.7,onshore,operating,2002,,Northern Europe,Europe,L921300,G926235,1217.6283
+4/10/2023,53.4652,-3.0393,United Kingdom,3,onshore,operating,1999,,Northern Europe,Europe,L921302,G926237,719.3664
+4/10/2023,53.5322,-1.6696,United Kingdom,5.9,onshore,operating,1993,,Northern Europe,Europe,L921303,G926238,1209.8647
+4/10/2023,53.0916,-1.6214,United Kingdom,5,onshore,operating,2015,,Northern Europe,Europe,L921304,G926239,1064.6818
+4/10/2023,53.7444,-0.2365,United Kingdom,1.3,onshore,operating,2007,,Northern Europe,Europe,L921307,G926242,615.7885
+4/10/2023,58.2756,-6.7568,United Kingdom,5,onshore,pre-construction,,,Northern Europe,Europe,L921308,G926243,846.578
+4/10/2023,54.4959,-1.2624,United Kingdom,4,onshore,operating,2012,,Northern Europe,Europe,L921312,G926247,563.4184
+4/10/2023,54.4942,-1.2585,United Kingdom,6,onshore,operating,2012,,Northern Europe,Europe,L921313,G926248,563.4184
+4/10/2023,54.6333,-6.3001,United Kingdom,9,onshore,pre-construction,,,Northern Europe,Europe,L921314,G926249,820.3449
+4/10/2023,51.538,-2.6741,United Kingdom,4.2,onshore,pre-construction,,,Northern Europe,Europe,L921315,G926250,626.114
+4/10/2023,52.6981,-1.1179,United Kingdom,2.5,onshore,operating,2014,,Northern Europe,Europe,L921316,G926251,417.49066
+4/10/2023,52.9758,-1.044,United Kingdom,1.5,onshore,operating,2015,,Northern Europe,Europe,L921317,G926252,446.60056
+4/10/2023,51.7237,-2.4829,United Kingdom,2,onshore,operating,2017,,Northern Europe,Europe,L921319,G926254,520.604
+4/10/2023,50.8295,0.2709,United Kingdom,7.5,onshore,operating,2017,,Northern Europe,Europe,L921321,G926256,488.77356
+4/10/2023,55.5953,-4.6335,United Kingdom,3,onshore,pre-construction,,,Northern Europe,Europe,L921324,G926259,766.0716
+4/10/2023,57.4998,-2.542,United Kingdom,6.9,onshore,operating,2013,,Northern Europe,Europe,L921325,G926260,760.1347
+4/10/2023,52.6293,0.8921,United Kingdom,4,onshore,pre-construction,,,Northern Europe,Europe,L921326,G926261,575.05096
+4/10/2023,51.2544,-2.5834,United Kingdom,2,onshore,operating,2008,,Northern Europe,Europe,L921327,G926262,737.94794
+4/10/2023,53.0909,-1.6284,United Kingdom,2.3,onshore,operating,2016,,Northern Europe,Europe,L921328,G926263,1064.6818
+4/10/2023,54.6741,-3.543,United Kingdom,4.2,onshore,operating,1996,,Northern Europe,Europe,L921329,G926264,810.09845
+4/10/2023,51.066,-2.3099,United Kingdom,8,onshore,pre-construction,,,Northern Europe,Europe,L921330,G926265,546.43085
+4/10/2023,55.2499,-1.6183,United Kingdom,8.2,onshore,operating,2016,,Northern Europe,Europe,L921331,G926266,740.54736
+4/10/2023,56.1665,-3.1593,United Kingdom,1.5,onshore,operating,2014,,Northern Europe,Europe,L921332,G926267,617.2725
+4/10/2023,56.1665,-3.1593,United Kingdom,1.5,onshore,pre-construction,,,Northern Europe,Europe,L921332,G926268,617.2725
+4/10/2023,57.4208,-2.1898,United Kingdom,3.2,onshore,operating,2009,,Northern Europe,Europe,L921333,G926269,577.00824
+4/10/2023,57.4213,-2.0952,United Kingdom,1.6,onshore,pre-construction,,,Northern Europe,Europe,L921333,G926270,569.84705
+4/10/2023,53.9525,-0.2443,United Kingdom,4.2,onshore,pre-construction,,,Northern Europe,Europe,L921334,G926271,591.851
+4/10/2023,54.1903,-7.6284,United Kingdom,5,onshore,operating,1995,,Northern Europe,Europe,L915168,G926272,905.87146
+4/10/2023,54.6355,-7.5692,United Kingdom,6.9,onshore,operating,2018,,Northern Europe,Europe,L921335,G926273,878.7764
+4/10/2023,51.3922,-2.8386,United Kingdom,1,onshore,pre-construction,,,Northern Europe,Europe,L921336,G926274,546.23315
+4/10/2023,53.835,-0.5967,United Kingdom,1.5,onshore,pre-construction,,,Northern Europe,Europe,L910392,G926275,623.25684
+4/10/2023,51.5666,-2.9626,United Kingdom,5,onshore,operating,2009,,Northern Europe,Europe,L921337,G926276,416.45593
+4/10/2023,55.6635,-4.7895,United Kingdom,9,onshore,construction,,,Northern Europe,Europe,L921338,G926277,846.58527
+4/10/2023,52.7099,1.6545,United Kingdom,1.5,onshore,operating,2000,,Northern Europe,Europe,L921340,G926279,588.889
+4/10/2023,54.8404,-1.4022,United Kingdom,7.5,onshore,operating,2013,,Northern Europe,Europe,L921341,G926281,718.3128
+4/10/2023,54.7222,-1.4349,United Kingdom,5.2,onshore,operating,2008,,Northern Europe,Europe,L921342,G926282,667.44714
+4/10/2023,55.8721,-3.7255,United Kingdom,1.5,onshore,pre-construction,,,Northern Europe,Europe,L921343,G926283,848.4356
+4/10/2023,55.8725,-3.7257,United Kingdom,4.2,onshore,pre-construction,,,Northern Europe,Europe,L921344,G926284,848.4356
+4/10/2023,55.8711,-3.7295,United Kingdom,1.5,onshore,operating,2016,,Northern Europe,Europe,L921345,G926285,848.4356
+4/10/2023,53.5368,-1.6922,United Kingdom,6.9,onshore,operating,2013,,Northern Europe,Europe,L921346,G926286,1219.8267
+4/10/2023,55.9341,-5.4805,United Kingdom,6,onshore,operating,2015,,Northern Europe,Europe,L921348,G926288,865.3154
+4/10/2023,57.572,-1.9111,United Kingdom,6,onshore,operating,2012,,Northern Europe,Europe,L921349,G926289,678.54114
+4/10/2023,57.5656,-1.8414,United Kingdom,3,onshore,pre-construction,,,Northern Europe,Europe,L921350,G926290,742.7288
+4/10/2023,56.8936,-2.2724,United Kingdom,7.7,onshore,operating,2013,,Northern Europe,Europe,L921351,G926291,757.2937
+4/10/2023,57.4266,-2.3252,United Kingdom,2.4,onshore,operating,2009,,Northern Europe,Europe,L921352,G926292,644.1722
+4/10/2023,57.4182,-2.3353,United Kingdom,3.2,onshore,operating,2015,,Northern Europe,Europe,L921353,G926293,637.7513
+4/10/2023,52.5698,0.1233,United Kingdom,2,onshore,operating,2010,,Northern Europe,Europe,L911246,G926294,494.26614
+4/10/2023,57.6262,-2.5811,United Kingdom,4.6,onshore,operating,2009,,Northern Europe,Europe,L921354,G926295,880.0213
+4/10/2023,57.6262,-2.5811,United Kingdom,2.3,onshore,operating,2009,,Northern Europe,Europe,L921354,G926296,880.0213
+4/10/2023,52.0721,-2.1838,United Kingdom,6,onshore,pre-construction,,,Northern Europe,Europe,L921356,G926299,442.06088
+4/10/2023,58.5719,-3.137,United Kingdom,2.3,onshore,operating,2015,,Northern Europe,Europe,L913203,G926301,774.32117
+4/10/2023,55.379,-3.9489,United Kingdom,1,onshore,operating,2015,,Northern Europe,Europe,L921358,G926302,590.67737
+4/10/2023,52.6567,0.6833,United Kingdom,1.5,onshore,operating,1999,,Northern Europe,Europe,L921359,G926303,530.6566
+4/10/2023,52.6577,0.7007,United Kingdom,1.8,onshore,operating,2003,,Northern Europe,Europe,L921360,G926304,535.1637
+4/10/2023,51.5694,-3.4648,United Kingdom,9,onshore,operating,1993,,Northern Europe,Europe,L921361,G926306,713.5215
+2/28/2023,55.4786,-5.5305,United Kingdom,6,onshore,operating,2011,,Northern Europe,Europe,L909494,G926307,654.3897
+4/10/2023,54.5471,-7.6956,United Kingdom,9,onshore,operating,2009,,Northern Europe,Europe,L911435,G926308,687.46674
+4/10/2023,53.7523,-0.0265,United Kingdom,7.5,onshore,operating,2013,,Northern Europe,Europe,L921362,G926309,625.0035
+4/10/2023,52.129,-2.3184,United Kingdom,1.2,onshore,operating,2003,,Northern Europe,Europe,L921364,G926311,400.811
+4/10/2023,53.143,0.2411,United Kingdom,2.6,onshore,operating,2008,,Northern Europe,Europe,L921365,G926312,552.44354
+4/10/2023,53.7518,-0.2348,United Kingdom,1.7,onshore,operating,2015,,Northern Europe,Europe,L921366,G926313,548.62744
+4/10/2023,53.0019,-2.271,United Kingdom,1.9,onshore,operating,2021,,Northern Europe,Europe,L921367,G926314,664.3904
+4/10/2023,54.8728,-6.1986,United Kingdom,4.6,onshore,operating,2013,,Northern Europe,Europe,L921368,G926315,722.4793
+4/10/2023,51.5016,0.0055,United Kingdom,3,onshore,pre-construction,,,Northern Europe,Europe,L921369,G926316,261.12064
+4/10/2023,55.7247,-3.9606,United Kingdom,2.2,onshore,operating,2013,,Northern Europe,Europe,L921370,G926317,780.16797
+4/10/2023,59.1131,-3.1438,United Kingdom,1.5,onshore,operating,2000,,Northern Europe,Europe,L921371,G926318,1047.9675
+4/10/2023,59.109,-3.1404,United Kingdom,2.3,onshore,operating,2000,,Northern Europe,Europe,L921372,G926319,1047.9675
+4/10/2023,54.6064,-7.5596,United Kingdom,9.2,onshore,operating,2014,,Northern Europe,Europe,L921373,G926320,731.278
+4/10/2023,54.6064,-7.5596,United Kingdom,9.2,onshore,operating,2014,,Northern Europe,Europe,L921374,G926321,731.278
+4/10/2023,55.801,-3.6831,United Kingdom,5,onshore,pre-construction,,,Northern Europe,Europe,L913421,G926325,807.4502
+4/10/2023,55.8718,-3.7461,United Kingdom,9,onshore,operating,2013,,Northern Europe,Europe,L921379,G926327,880.5461
+4/10/2023,55.8766,-3.7452,United Kingdom,5.7,onshore,operating,2015,,Northern Europe,Europe,L921379,G926328,920.03955
+4/10/2023,55.1733,-4.3159,United Kingdom,4,onshore,construction,,,Northern Europe,Europe,L921380,G926329,441.6432
+4/10/2023,54.7638,-1.8228,United Kingdom,2.6,onshore,operating,2001,,Northern Europe,Europe,L921381,G926330,1049.737
+4/10/2023,54.7204,-1.4426,United Kingdom,5.2,onshore,operating,2008,,Northern Europe,Europe,L921382,G926331,667.44714
+4/10/2023,53.3748,-4.3465,United Kingdom,5.6,onshore,operating,1996,,Northern Europe,Europe,L921383,G926332,959.65375
+4/10/2023,56.844,-2.4101,United Kingdom,7.5,onshore,operating,2014,,Northern Europe,Europe,L910958,G926333,810.063
+4/10/2023,57.4064,-2.0598,United Kingdom,2.4,onshore,operating,2010,,Northern Europe,Europe,L921386,G926336,591.49615
+4/10/2023,58.2872,-3.4279,United Kingdom,3.2,onshore,pre-construction,,,Northern Europe,Europe,L921387,G926337,798.9094
+4/10/2023,52.408,1.2128,United Kingdom,7.5,onshore,pre-construction,,,Northern Europe,Europe,L921388,G926338,518.2474
+4/10/2023,57.3233,-2.8753,United Kingdom,1.7,onshore,operating,2017,,Northern Europe,Europe,L921389,G926339,815.39386
+4/10/2023,54.2475,-6.5991,United Kingdom,1.5,onshore,pre-construction,,,Northern Europe,Europe,L921391,G926341,1102.8258
+4/10/2023,51.7021,-4.9965,United Kingdom,8.2,onshore,operating,2014,,Northern Europe,Europe,L921392,G926342,683.5188
+4/10/2023,56.637,-3.2794,United Kingdom,9.2,onshore,operating,2018,,Northern Europe,Europe,L921393,G926343,523.599
+4/10/2023,53.0255,-3.4059,United Kingdom,9.2,onshore,operating,2010,,Northern Europe,Europe,L921394,G926344,828.46216
+4/10/2023,55.6261,-4.1288,United Kingdom,3,onshore,pre-construction,,,Northern Europe,Europe,L921395,G926345,835.7747
+4/10/2023,58.827,-3.1231,United Kingdom,2,onshore,operating,2010,,Northern Europe,Europe,L921396,G926346,1029.9274
+4/10/2023,57.4938,-2.0268,United Kingdom,2.4,onshore,operating,2011,,Northern Europe,Europe,L921397,G926347,750.89905
+4/10/2023,51.5589,-3.3914,United Kingdom,1.5,onshore,operating,2018,,Northern Europe,Europe,L921399,G926349,410.8091
+4/10/2023,51.6158,-1.6661,United Kingdom,6.5,onshore,operating,2008,,Northern Europe,Europe,L921400,G926350,524.17065
+4/10/2023,54.7795,-3.3463,United Kingdom,6.2,onshore,operating,2014,,Northern Europe,Europe,L921401,G926351,799.8337
+4/10/2023,52.6953,1.0915,United Kingdom,3.6,onshore,operating,2015,,Northern Europe,Europe,L921402,G926352,562.9342
+4/10/2023,54.8097,-6.1066,United Kingdom,9.2,onshore,pre-construction,,,Northern Europe,Europe,L921403,G926353,828.44324
+4/10/2023,50.366,-4.8087,United Kingdom,1.3,onshore,pre-construction,,,Northern Europe,Europe,L921404,G926354,819.53143
+4/10/2023,52.558,-0.1719,United Kingdom,9,onshore,operating,2008,,Northern Europe,Europe,L921406,G926356,467.64624
+4/10/2023,52.4148,1.7028,United Kingdom,4.1,onshore,operating,2011,,Northern Europe,Europe,L921407,G926357,601.38293
+4/10/2023,54.6879,-6.0196,United Kingdom,2.3,onshore,operating,2011,,Northern Europe,Europe,L921408,G926358,812.2709
+4/10/2023,54.6424,-3.4968,United Kingdom,6,onshore,operating,2009,,Northern Europe,Europe,L921409,G926359,754.2178
+4/10/2023,54.6288,-3.5041,United Kingdom,8.8,onshore,operating,2004,,Northern Europe,Europe,L921410,G926360,776.61334
+4/10/2023,53.859,-0.1656,United Kingdom,8.2,onshore,operating,2019,,Northern Europe,Europe,L911287,G926361,600.1168
+4/10/2023,54.8043,-6.0806,United Kingdom,8.8,onshore,operating,2007,,Northern Europe,Europe,L921411,G926362,1042.9722
+4/10/2023,50.4253,-4.8141,United Kingdom,4.6,onshore,operating,2014,,Northern Europe,Europe,L921412,G926363,673.87366
+4/10/2023,55.6333,-3.9105,United Kingdom,2.6,onshore,operating,2016,,Northern Europe,Europe,L921413,G926364,943.94836
+4/10/2023,58.9997,-2.9126,United Kingdom,1.8,onshore,pre-construction,,,Northern Europe,Europe,L921415,G926366,1050.524
+4/10/2023,53.2998,-1.0758,United Kingdom,2,onshore,operating,2009,,Northern Europe,Europe,L921416,G926367,450.28864
+4/10/2023,54.6741,-3.5231,United Kingdom,2.3,onshore,operating,2015,,Northern Europe,Europe,L921417,G926368,810.09845
+4/10/2023,57.4308,-1.9419,United Kingdom,1,onshore,operating,2014,,Northern Europe,Europe,L921419,G926371,660.3015
+4/10/2023,53.3938,-4.4003,United Kingdom,4.6,onshore,operating,2013,,Northern Europe,Europe,L921420,G926372,898.32477
+9/23/2022,-37.5965,143.4996,Australia,6,onshore,operating,2015,,Australia and New Zealand,Oceania,L917259,G921414,484.248
+9/23/2022,-34.5165,149.5425,Australia,4.8,onshore,operating,1998,,Australia and New Zealand,Oceania,L906097,G921416,436.23862
+9/23/2022,-35.037,117.319,Australia,1.44,onshore,operating,,,Australia and New Zealand,Oceania,L917261,G921417,640.5184
+7/21/2023,-36.34001,141.4474,Australia,8,onshore,operating,,,Australia and New Zealand,Oceania,L917262,G921418,396.69516
+9/23/2022,-33.6497,150.0501,Australia,1.32,onshore,operating,2002,,Australia and New Zealand,Oceania,L917267,G921423,620.6483
+9/23/2022,-37.4246,144.1157,Australia,4,onshore,operating,,,Australia and New Zealand,Oceania,L917268,G921424,378.193
+9/23/2022,-27.8983,114.1924,Australia,1.6,onshore,operating,,,Australia and New Zealand,Oceania,L917271,G921427,424.43207
+9/23/2022,-30.9422,115.3666,Australia,5,onshore,operating,2013,,Australia and New Zealand,Oceania,L917272,G921428,390.17157
+9/23/2022,-37.4188,142.8243,Australia,6,onshore,operating,2010,,Australia and New Zealand,Oceania,L917275,G921431,509.1087
+9/23/2022,-38.5284,142.9162,Australia,7,onshore,operating,,,Australia and New Zealand,Oceania,L917284,G921440,556.16833
+9/23/2022,-30.8581,115.4633,Australia,5,onshore,operating,2013,,Australia and New Zealand,Oceania,L917287,G921443,227.72461
+10/20/2022,-22.3132,166.7644,New Caledonia,2,onshore,operating,2004,,Melanesia,Oceania,L906244,G908493,275.17133
+10/20/2022,-22.3132,166.7644,New Caledonia,5,onshore,operating,2005,,Melanesia,Oceania,L906244,G921449,275.17133
+10/20/2022,-22.344,166.7644,New Caledonia,6,onshore,operating,2006,,Melanesia,Oceania,L906244,G921450,211.90683
+10/20/2022,-22.3277,166.7848,New Caledonia,5,onshore,operating,2007,,Melanesia,Oceania,L906244,G921451,263.86478
+10/20/2022,-22.2755,166.7202,New Caledonia,5,onshore,operating,2010,,Melanesia,Oceania,L906244,G921452,230.41006
+10/20/2022,-22.269,166.6611,New Caledonia,4,onshore,operating,1996,,Melanesia,Oceania,L917294,G921454,232.8648
